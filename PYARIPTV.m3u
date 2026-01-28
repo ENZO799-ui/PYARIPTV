@@ -17,12 +17,14 @@ http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/81.m3u8
 https://copacotf.desdeparaguay.net/latele/latele_py_alta/playlist.m3u8?admin=tvaccion
 #EXTINF:0 type="stream" channelId="-1" group="General" logo="https://i.imgur.com/BD16znv.png", LATELE HD
 https://copacotf.desdeparaguay.net/latele/latele_py_alta/playlist.m3u8?admin=tvaccion
-#EXTINF:0 type="stream" channelId="-1" group="General" logo="https://i.imgur.com/OqfBMGy.png", ABC-TV 
+#EXTINF:0 type="stream" channelId="-1" group="General" logo="https://i.imgur.com/OqfBMGy.png", ABC-TV SD
 https://livecdn.use1-0004.jwplive.com/live/sites/rmOO40BU/media/aide2636/live.isml/.mpd
-#EXTINF:0 type="stream" channelId="-1" group="News" logo="https://i.imgur.com/OqfBMGy.png", ABC-TV
+#EXTINF:0 type="stream" channelId="-1" group="News" logo="https://i.imgur.com/OqfBMGy.png", ABC-TV HD
 https://cdn.jwplayer.com/live/broadcast/aide2636.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="News" logo="https://i.postimg.cc/fyjHLrkr/abctv.png", ABC-TV
+#EXTINF:0 type="stream" channelId="-1" group="News" logo="https://media.licdn.com/dms/image/sync/v2/D4D27AQEBRRvx7JRHmg/articleshare-shrink_800/articleshare-shrink_800/0/1712568751373?e=2147483647&v=beta&t=94F1Rfn73j5ykg3LkiuyH04vAldudI99LRelXDlOecg", ABC-TV FHD
 https://livecdn.use1-0004.jwplive.com/live/sites/rmOO40BU/media/aide2636/live.isml/.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="News" logo="https://media.licdn.com/dms/image/sync/v2/D4D27AQEBRRvx7JRHmg/articleshare-shrink_800/articleshare-shrink_800/0/1712568751373?e=2147483647&v=beta&t=94F1Rfn73j5ykg3LkiuyH04vAldudI99LRelXDlOecg", ABC-TV LAT
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/7.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="News" logo="https://i.ibb.co/1fb5BtN/unnamed.png", 4D+ TV
 https://rds3.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="General" logo="https://i.imgur.com/7gHFKPZ.png", Tv Aire PY
@@ -456,6 +458,7 @@ http://179.43.101.99/Live/4ebed19e324f278338425a6190627141/local-04.playlist.m3u
 http://179.43.101.99/Live/4ebed19e324f278338425a6190627141/local-05.playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Sports", [EVENTOS] 6
 http://179.43.101.99/Live/4ebed19e324f278338425a6190627141/local-06.playlist.m3u8
+
 
 
 
