@@ -53,8 +53,10 @@ https://alba-py-c9n-c9n.stream.mediatiquestream.com/index.m3u8
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/82.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="General" logo="https://i.imgur.com/cgTD2TW.png", UNICANAL
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/72.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="General" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/512px-Canal_26_logo_%282022%29.svg.png", C. 26
+#EXTINF:0 type="stream" channelId="-1" group="General" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/512px-Canal_26_logo_%282022%29.svg.png", CANAL26
 http://186.0.248.95:20202/Live/cc6d01ad4b8ed9ec4c9c6115e63d71ab/c26_1080.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="General" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/512px-Canal_26_logo_%282022%29.svg.png", CANAL26 INTERNACIONAL
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/12.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="General" logo="https://i.postimg.cc/rmDCV75c/paravision.png", Paravision TV
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/120.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="General;Religious" logo="https://i.ibb.co/rwkpQx6/unnamed-2.png", Cáritas TV 
@@ -137,11 +139,10 @@ https://copacogen.desdeparaguay.net/nandejaraneetv/nandejaraneetv/playlist.m3u8?
 https://3abn.bozztv.com/3abn2/Lat_live/smil:Lat_live.smil/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Religious" logo="https://www.google.com/imgres?q=RCC%20TV%20LOGO&imgurl=https%3A%2F%2Flogoroga.com%2Fwp-content%2Fuploads%2F2025%2F04%2Frcc.jpg&imgrefurl=https%3A%2F%2Flogoroga.com%2Ftag%2Frcc%2F&docid=W67HGVtmeUu_mM&tbnid=b9cqkQ6VbvckJM&vet=12ahUKEwiYqdfVgZORAxWfppUCHYsYLgsQM3oECCUQAA..i&w=1000&h=1000&hcb=2&itg=1&ved=2ahUKEwiYqdfVgZORAxWfppUCHYsYLgsQM3oECCUQAA", RCC
 https://copacogen.desdeparaguay.net/rcctv/rcctv/chunklist.m3u8?admin=tvaccion
-#EXTINF:0 type="stream" channelId="-1" group="Inside" logo="https://scontent.fasu3-1.fna.fbcdn.net/v/t39.30808-6/486638472_1164175182386841_8925699965340691035_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=7rcCpbd_jB8Q7kNvwEQb9Rv&_nc_oc=Adk0VPC1VATyW0Ghh8EXqEAVNDpDFQBjYylVnnrLTh8SQhtxWS7UuqxoMSKqMTcfz-I&_nc_zt=23&_nc_ht=scontent.fasu3-1.fna&_nc_gid=ILbUXVmt9xm9_RPj0Rg14w&oh=00_Afr-wARSW09Nv58UV-VXfsLjXQz-v1ufsewldclRc_o0pg&oe=697F1FCC", Tv Chaqueña Py (1080p)
-https://copacogen.desdeparaguay.net/tvchaquena/tvchaquena/chunklist.m3u8?admin=tvaccion
+#EXTINF:0 type="stream" channelId="-1" group="Inside" logo="https://scontent.fasu3-1.fna.fbcdn.net/v/t39.30808-6/486638472_1164175182386841_8925699965340691035_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=7rcCpbd_jB8Q7kNvwEQb9Rv&_nc_oc=Adk0VPC1VATyW0Ghh8EXqEAVNDpDFQBjYylVnnrLTh8SQhtxWS7UuqxoMSKqMTcfz-I&_nc_zt=23&_nc_ht=scontent.fasu3-1.fna&_nc_gid=ILbUXVmt9xm9_RPj0Rg14w&oh=00_Afr-wARSW09Nv58UV-VXfsLjXQz-v1ufsewldclRc_o0pg&oe=697F1FCC", TV CHAQUEÑA
 #EXTINF:0 type="stream" channelId="-1" group="Inside" logo="https://i.postimg.cc/fyVSj4Sp/canal-vision-tv.png", VISION TV
 https://rds3gen.desdeparaguay.net/satelitaltv/satelitaltv/chunklist.m3u8?admin=nacion
-#EXTINF:0 type="stream" channelId="-1" group="Inside" logo="https://i.imgur.com/urJdNc9.png", UGA TV
+#EXTINF:0 type="stream" channelId="-1" group="Inside", UGA TV
 https://copacogen.desdeparaguay.net/ugatv/ugatv/playlist.m3u8?admin=tvaccion
 #EXTINF:0 type="stream" channelId="-1" group="Inside", MQV TV 
 https://www.desde-paraguay.com/mqvtv.m3u8
@@ -453,6 +454,7 @@ http://179.43.101.99/Live/4ebed19e324f278338425a6190627141/local-04.playlist.m3u
 http://179.43.101.99/Live/4ebed19e324f278338425a6190627141/local-05.playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Sports", [EVENTOS] 6
 http://179.43.101.99/Live/4ebed19e324f278338425a6190627141/local-06.playlist.m3u8
+
 
 
 
