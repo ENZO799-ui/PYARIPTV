@@ -81,10 +81,12 @@ https://www.desde-paraguay.com/mega.m3u8
 https://www.desde-paraguay.com/pro.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Music" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/LOGO_MITV_ALTA_DEFINICION_2020_PNG.png/1200px-LOGO_MITV_ALTA_DEFINICION_2020_PNG.png", MiTV 
 https://rds3.desdeparaguay.net/mitv/mitv/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="General" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png/512px-Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png", America Paraguay
+#EXTINF:0 type="stream" channelId="-1" group="General" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png/512px-Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png", AMERICA PARAGUAY
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/83.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="General" logo="https://i.imgur.com/mqUqMU6.png", America Internacional
+#EXTINF:0 type="stream" channelId="-1" group="General" logo="https://i.imgur.com/mqUqMU6.png", AMERICA INTERNACIONAL
 http://186.0.248.95:20202/Live/c7fa533dd4f29ff379661491384edef8/americatv_540.m3u8
+#EXTINF:0 type="stream" channelId="4655" group="News" logo="https://i.imgur.com/LnXQkIU.png", A24 PARAGUAY
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/6.m3u8
 #EXTINF:0 type="stream" channelId="4655" group="News" logo="https://i.imgur.com/LnXQkIU.png", A24 Internacional
 http://186.0.248.95:20202/Live/0c0a3bd149db5bb78d1b86e590380ec6/a24_720.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="General" logo="http://186.0.248.95:20202/images/CanaldelaCiudad_285.png", El Canal De La Ciudad
@@ -169,8 +171,10 @@ http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTdZSA7RKb-aBIqN6D8DKyyQ/m3u8
 https://fb.tv.bo/hls/SEOTVSD.m3u8
 #EXTINF:0 type="stream" channelId="1954" group="Internacional" logo="https://i.imgur.com/g5ShxZ7.png", LAS ESTRELLAS
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Internacional" logo="https://i.imgur.com/g5ShxZ7.png", LAS ESTRELLAS INTERNACIONAL
+#EXTINF:0 type="stream" channelId="-1" group="Internacional" logo="https://i.imgur.com/g5ShxZ7.png", LAS ESTRELLAS INTERNACIONAL SD
 http://179.43.101.99/Live/4ebed19e324f278338425a6190627141/lasestrellas.playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Internacional" logo="https://i.imgur.com/g5ShxZ7.png", LAS ESTRELLAS INTERNACIONAL HD
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/121.m3u8
 #EXTINF:0 type="stream" channelId="1967" group="General" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png", TELEMUNDO
 http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTRSgqaaeJfnXdNhhKhum39E/m3u8
 #EXTINF:0 type="stream" channelId="1968" group="Internacional" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png", TELEMUNDO INTERNACIONAL
@@ -233,13 +237,13 @@ http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/89.m3u8
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/88.m3u8
 #EXTINF:0 type="stream" channelId="355" group="Sports" logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73833_dark_360w_270h.png", ESPN 3
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/90.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65930_dark_360w_270h.png", ESPN 4
+#EXTINF:0 type="stream" channelId="-1" group="Sports" logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65930_dark_360w_270h.png", ESPN 4
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/91.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s86787_dark_360w_270h.png", ESPN 5
+#EXTINF:0 type="stream" channelId="-1" group="Sports" logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s86787_dark_360w_270h.png", ESPN 5
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/92.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Sports" logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s99633_dark_360w_270h.png", ESPN 6
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/25.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91513_dark_360w_270h.png", ESPN 7
+#EXTINF:0 type="stream" channelId="-1" group="Sports" logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91513_dark_360w_270h.png", ESPN 7
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/26.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Sports" logo="https://i.ibb.co/zbWxZ95/fs1.png", FOX
 http://179.43.101.99/Live/4ebed19e324f278338425a6190627141/local-91.playlist.m3u8
@@ -247,11 +251,11 @@ http://179.43.101.99/Live/4ebed19e324f278338425a6190627141/local-91.playlist.m3u
 http://179.43.101.99/Live/4ebed19e324f278338425a6190627141/local-93.playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Sports" logo="https://i.ibb.co/SBkkDxq/fs3.png", FOX 3
 http://179.43.101.99/Live/4ebed19e324f278338425a6190627141/local-92.playlist.m3u8
-#EXTINF:0 type="stream" channelId="3804" group="Sports" logo="https://www.cxtvenvivo.com/assets/img/fora-do-ar-en.png", TUDN
+#EXTINF:0 type="stream" channelId="3804" group="Sports" logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f2cbaccbaa4aa529f84b010706ac547e.webp", TUDN
 http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTVL9TbgOeYnXUEC2UjoDBYk/m3u8
-#EXTINF:0 type="stream" channelId="4668" group="Sports" logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/84fbcd6f24e883cf290d71b254904b66.webp", TNT SPORTS
+#EXTINF:0 type="stream" channelId="4668" group="Sports" logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/84fbcd6f24e883cf290d71b254904b66.webp", TNT SPORTS 
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/86.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Sports" logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/84fbcd6f24e883cf290d71b254904b66.webp", TNT SPORTS HD
+#EXTINF:0 type="stream" channelId="-1" group="Sports" logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/84fbcd6f24e883cf290d71b254904b66.webp", TNT SPORTS 
 http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/local-ch26.playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Sports" logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c06589c968882b19431e883df28f54cf.webp" aspect-ratio="16:9", FOX ES
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63d0269d60bc8f000890facc/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1b6ecec3-ea2d-11f0-972f-69dd03187d36&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ee5c1cd2-4f0f-413d-b489-69c95ce6c168&userId=&serverSideAds=true
@@ -449,6 +453,7 @@ http://179.43.101.99/Live/4ebed19e324f278338425a6190627141/local-04.playlist.m3u
 http://179.43.101.99/Live/4ebed19e324f278338425a6190627141/local-05.playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Sports", [EVENTOS] 6
 http://179.43.101.99/Live/4ebed19e324f278338425a6190627141/local-06.playlist.m3u8
+
 
 
 
