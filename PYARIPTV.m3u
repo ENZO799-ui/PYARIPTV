@@ -299,7 +299,7 @@ http://179.43.101.99/Live/4ebed19e324f278338425a6190627141/local-31.playlist.m3u
 http://179.43.101.99/Live/4ebed19e324f278338425a6190627141/local-30.playlist.m3u8
 #EXTINF:0 type="stream" channelId="2720" group="Kids" logo="https://i.ibb.co/7t6kZvBy/disney-Channel.png", DISNEY
 http://179.43.101.99/Live/4ebed19e324f278338425a6190627141/local-32.playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://i.ibb.co/TdmBjrd/disney-j-R.png", DISNEY JR.
+#EXTINF:0 type="stream" channelId="-1" group="Kids" logo="https://i.ibb.co/TdmBjrd/disney-j-R.png", DISNEY JR.
 http://179.43.101.99/Live/4ebed19e324f278338425a6190627141/local-35.playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Kids" logo="https://i.imgur.com/G1J4IsT.png", NICKELODEON
 http://179.43.101.99/Live/4ebed19e324f278338425a6190627141/local-33.playlist.m3u8
@@ -449,6 +449,7 @@ http://179.43.101.99/Live/4ebed19e324f278338425a6190627141/local-04.playlist.m3u
 http://179.43.101.99/Live/4ebed19e324f278338425a6190627141/local-05.playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Sports", [EVENTOS] 6
 http://179.43.101.99/Live/4ebed19e324f278338425a6190627141/local-06.playlist.m3u8
+
 
 
 
