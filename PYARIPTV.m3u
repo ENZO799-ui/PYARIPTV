@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:0 type="stream" channelId="-1" group="General" logo="https://i.ibb.co/Hp9jRYsP/telefuturo-new-logo-2022-by-randomuser2040-dfhp9ty-fullview.png", Telefuturo SD
-https://copacogen.desdeparaguay.net/telefuturo/telefuturo_py_alta/index.m3u8?admin=tvaccion
+https://copacogen.desdeparaguay.net/telefuturo/telefuturo_py_baja/index.m3u8?admin=tvaccion
 #EXTINF:0 type="stream" channelId="-1" group="General" logo="https://i.ibb.co/Hp9jRYsP/telefuturo-new-logo-2022-by-randomuser2040-dfhp9ty-fullview.png", Telefuturo HD
 https://copacogen.desdeparaguay.net/telefuturo/telefuturo_py_alta/media.m3u8?admin=tvaccion
 #EXTINF:0 type="stream" channelId="-1" group="General" logo="https://i.ibb.co/Hp9jRYsP/telefuturo-new-logo-2022-by-randomuser2040-dfhp9ty-fullview.png", Telefuturo FHD LAT
