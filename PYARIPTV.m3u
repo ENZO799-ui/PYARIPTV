@@ -51,7 +51,7 @@ https://rds3.desdeparaguay.net/brunomasitv/brunomasitv/playlist.m3u8
 http://186.0.248.95:20202/Live/0c0a3bd149db5bb78d1b86e590380ec6/c5n_480.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="General" logo="https://i.ibb.co/Z6y9wbMT/330x330-logo-grande-C9-N.png", C9N
 https://alba-py-c9n-c9n.stream.mediatiquestream.com/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="General" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Logotrececanal.png/512px-Logotrececanal.png", RPC PY
+#EXTINF:0 type="stream" channelId="-1" group="General" logo="https://bestleague.world/img/trecepy.webp", 13 PY
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/82.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="General" logo="https://i.imgur.com/cgTD2TW.png", UNICANAL
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/72.m3u8
@@ -458,6 +458,7 @@ http://179.43.101.99/Live/4ebed19e324f278338425a6190627141/local-04.playlist.m3u
 http://179.43.101.99/Live/4ebed19e324f278338425a6190627141/local-05.playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Sports", [EVENTOS] 6
 http://179.43.101.99/Live/4ebed19e324f278338425a6190627141/local-06.playlist.m3u8
+
 
 
 
