@@ -35,7 +35,7 @@ https://cloudtv.streaming.com.py/educanalpy/educanalpy/playlist.m3u8
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/22.m3u8
 #EXTINF:0 type="stream" channelId="2434" group="General" logo="https://i.imgur.com/1r5T6Pw.png", BAND
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/77.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="General" logo="https://i.imgur.com/XGrkzN3.png", TvPublica
+#EXTINF:0 type="stream" channelId="-1" group="General" logo="https://bestleague.world/img/tvpublica.webp", TVPUBLICA
 http://186.0.248.95:20202/Live/0c0a3bd149db5bb78d1b86e590380ec6/tvpublica_480.m3u8
 #EXTINF:0 type="stream" channelId="2571" group="General" logo="https://i.imgur.com/tc1ALuu.png", SBT BR-PY
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/78.m3u8
@@ -458,6 +458,7 @@ http://179.43.101.99/Live/4ebed19e324f278338425a6190627141/local-04.playlist.m3u
 http://179.43.101.99/Live/4ebed19e324f278338425a6190627141/local-05.playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Sports", [EVENTOS] 6
 http://179.43.101.99/Live/4ebed19e324f278338425a6190627141/local-06.playlist.m3u8
+
 
 
 
