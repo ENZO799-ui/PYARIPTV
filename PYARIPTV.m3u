@@ -221,7 +221,8 @@ http://179.43.101.99/Live/4ebed19e324f278338425a6190627141/local-51.playlist.m3u
 #EXTINF:0 type="stream" channelId="-1" group="Music", HTV
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/40.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Sports" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigo_Sports_2025.png/512px-Tigo_Sports_2025.png", TIGO SPORTS SD
-https://live.enhdtv.com:8081/8160/index.m3u8#EXTINF:0 type="stream" channelId="-1" group="Sports" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigo_Sports_2025.png/512px-Tigo_Sports_2025.png", TIGO SPORTS HD
+https://live.enhdtv.com:8081/8160/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Sports" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigo_Sports_2025.png/512px-Tigo_Sports_2025.png", TIGO SPORTS HD
 https://corgol.com@live.enhdtv.com:8081/8160/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Sports" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/512px-TyC_Sports_logo.svg.png" aspect-ratio="16:9", TYC SPORTS
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/60.m3u8
@@ -459,6 +460,7 @@ http://179.43.101.99/Live/4ebed19e324f278338425a6190627141/local-04.playlist.m3u
 http://179.43.101.99/Live/4ebed19e324f278338425a6190627141/local-05.playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Sports", [EVENTOS] 6
 http://179.43.101.99/Live/4ebed19e324f278338425a6190627141/local-06.playlist.m3u8
+
 
 
 
