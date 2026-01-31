@@ -208,7 +208,7 @@ https://jmp2.uk/stvp-USBB320000647
 https://jmp2.uk/stvp-USBB3200007AK
 #EXTINF:0 type="stream" channelId="-1" group="Music" logo="https://i.imgur.com/x1zYoCW.png", MTV Hits
 https://jmp2.uk/stvp-USBD3300004RH
-#EXTINF:0 type="stream" channelId="-1" group="Music" logo="https://upload.wikimedia.org/wikipedia/commons/3/30/MTV_Live_2021_logo.svg", MTV LIVE 
+#EXTINF:0 type="stream" channelId="-1" group="Music" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MTV_Live_2021_logo.svg/250px-MTV_Live_2021_logo.svg.png", MTV LIVE 
 https://jmp2.uk/stvp-USBB2300003JZ
 #EXTINF:0 type="stream" channelId="-1" group="Music" logo="https://i.imgur.com/TWqrcBk.png", MTV CLASSIC
 https://jmp2.uk/stvp-USBD350003932
@@ -218,11 +218,11 @@ https://jmp2.uk/stvp-USBD3300007PB
 https://jmp2.uk/stvp-USBD3300010L9
 #EXTINF:0 type="stream" channelId="-1" group="Music" logo="https://i.imgur.com/3Gh80hk.png", MTV ROCKS
 https://jmp2.uk/stvp-USBB2300004KV
-#EXTINF:0 type="stream" channelId="-1" group="Music", MusicTop
+#EXTINF:0 type="stream" channelId="-1" group="Music" logo="https://cdn.mitvstatic.com/channels/ar_musictop_m.png", MusicTop
 http://186.0.248.95:20202/Live/0c0a3bd149db5bb78d1b86e590380ec6/musictop.playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Music" logo="https://i.imgur.com/RO9Dz3X.png", QUIERO MUSICA TV
 http://179.43.101.99/Live/4ebed19e324f278338425a6190627141/local-51.playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Music", HTV
+#EXTINF:0 type="stream" channelId="-1" group="Music" logo="https://scontent.fasu3-1.fna.fbcdn.net/v/t39.30808-6/347788011_197483316057515_4247416112905930143_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=XswMobU3wbIQ7kNvwH7_wQg&_nc_oc=Adlqb6xYvTrx20_HpCbry_cq4Zax6FCYURCcQXQ-jQKGZLslVidud29OCfeFLFHLweE&_nc_zt=23&_nc_ht=scontent.fasu3-1.fna&_nc_gid=O3SZF5AUQznElT4H7XrVdQ&oh=00_AfuF-WRqf84KZclr6tJxzOeJqIqsiNykiqZD3xePgUzW5Q&oe=698435F6", HTV
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/40.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Sports" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigo_Sports_2025.png/512px-Tigo_Sports_2025.png", TIGO SPORTS SD
 https://live.enhdtv.com:8081/8160/index.m3u8
@@ -468,6 +468,7 @@ http://179.43.101.99/Live/4ebed19e324f278338425a6190627141/local-04.playlist.m3u
 http://179.43.101.99/Live/4ebed19e324f278338425a6190627141/local-05.playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Sports", [EVENTOS] 6
 http://179.43.101.99/Live/4ebed19e324f278338425a6190627141/local-06.playlist.m3u8
+
 
 
 
