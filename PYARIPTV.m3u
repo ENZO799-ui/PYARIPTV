@@ -200,20 +200,16 @@ https://copacogen.desdeparaguay.net/tropicaliatv/tropicaliatv_py_alta/chunklist.
 #EXTINF:0 type="stream" channelId="-1" group-title="Music" logo="https://i.imgur.com/XLWkERe.png", LA BOCINA LATINA
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/la-bocina-latina/master.m3u8?ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.deviceCategory=__DEVICE_CATEGORY__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=23040&ads.content_duration=18000&ads.episode_id=116281&ads.show_id=4600&ads.showCategories=IAB1&ads.episodeCategories=IAB1&ads.genre=Music%2CMusic%20Video%2CContemporary%20Hits%2FPop%2FTop%2040%2CReggae%2CHip%20Hop%20Music%2CSpanish&ads.showRating=TV-14&ads.episodeRating=TV-14&ads.language=es&ads.showtitle=La%20Bocina%20Latina&ads.episodetitle=La%20Bocina%20Latina&ads.keywords=Music%2CSpanish%2CLatin%2Cespanol&ads.contenturl=__PAGEURL_ESC__&ads.gdprConsent=__GDPR_CONSENT__&ads.paln=__PALN__&ads.tagname=risefinancial&ads.islive=1&ads.streamtype=live&ads.vf=20241020
 
-#EXTINF:0 type="stream" channelId="-1" group-title="General" logo="https://i.imgur.com/KXHK7UP.png",
-PRODUCTIVA TV TV 
+#EXTINF:0 type="stream" channelId="-1" group-title="General" logo="https://i.imgur.com/KXHK7UP.png", PRODUCTIVA TV TV 
 https://copacoradios.desdeparaguay.net/productivatv/productivatv_baja/playlist.m3u8?admin=nacion
 
-#EXTINF:0 type="stream" channelId="-1" group-title="Religious" logo="https://i.imgur.com/VFxuBdL.jpg",
-ÑANDEJARA ÑE´E
+#EXTINF:0 type="stream" channelId="-1" group-title="Religious" logo="https://i.imgur.com/VFxuBdL.jpg", ÑANDEJARA ÑE´E
 https://copacogen.desdeparaguay.net/nandejaraneetv/nandejaraneetv/playlist.m3u8?admin=tvaccion
 
-#EXTINF:0 type="stream" channelId="-1" group-title="Religious" logo="https://i.imgur.com/bgJQIyW.png",
-3ABN
+#EXTINF:0 type="stream" channelId="-1" group-title="Religious" logo="https://i.imgur.com/bgJQIyW.png", 3ABN
 https://3abn.bozztv.com/3abn2/Lat_live/smil:Lat_live.smil/playlist.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="Religious" logo="https://www.google.com/imgres?q=RCC%20TV%20LOGO&imgurl=https%3A%2F%2Flogoroga.com%2Fwp-content%2Fuploads%2F2025%2F04%2Frcc.jpg&imgrefurl=https%3A%2F%2Flogoroga.com%2Ftag%2Frcc%2F&docid=W67HGVtmeUu_mM&tbnid=b9cqkQ6VbvckJM&vet=12ahUKEwiYqdfVgZORAxWfppUCHYsYLgsQM3oECCUQAA..i&w=1000&h=1000&hcb=2&itg=1&ved=2ahUKEwiYqdfVgZORAxWfppUCHYsYLgsQM3oECCUQAA",
-RCC
+#EXTINF:0 type="stream" channelId="-1" group-title="Religious" logo="https://www.google.com/imgres?q=RCC%20TV%20LOGO&imgurl=https%3A%2F%2Flogoroga.com%2Fwp-content%2Fuploads%2F2025%2F04%2Frcc.jpg&imgrefurl=https%3A%2F%2Flogoroga.com%2Ftag%2Frcc%2F&docid=W67HGVtmeUu_mM&tbnid=b9cqkQ6VbvckJM&vet=12ahUKEwiYqdfVgZORAxWfppUCHYsYLgsQM3oECCUQAA..i&w=1000&h=1000&hcb=2&itg=1&ved=2ahUKEwiYqdfVgZORAxWfppUCHYsYLgsQM3oECCUQAA", RCC
 https://copacogen.desdeparaguay.net/rcctv/rcctv/chunklist.m3u8?admin=tvaccion
 
 #EXTINF:0 type="stream" channelId="-1" group-title="Inside" logo="https://scontent.fasu3-1.fna.fbcdn.net/v/t39.30808-6/486638472_1164175182386841_8925699965340691035_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=7rcCpbd_jB8Q7kNvwEQb9Rv&_nc_oc=Adk0VPC1VATyW0Ghh8EXqEAVNDpDFQBjYylVnnrLTh8SQhtxWS7UuqxoMSKqMTcfz-I&_nc_zt=23&_nc_ht=scontent.fasu3-1.fna&_nc_gid=ILbUXVmt9xm9_RPj0Rg14w&oh=00_Afr-wARSW09Nv58UV-VXfsLjXQz-v1ufsewldclRc_o0pg&oe=697F1FCC", TV CHAQUEÑA
