@@ -1,11 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Hp9jRYS/teleufuturo-new-logo-2022-by-randomuser2040-dfhph9ty-fullview.png" group-title="General",Telefuturo SD
-https://copacogen.desdeparaguay.net/teleufuturo/teleufuturo_py_baja/index.m3u8?admin=tvaccion
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Hp9jRYS/teleufuturo-new-logo-2022-by-randomuser2040-dfhph9ty-fullview.png" group-title="General",Telefuturo HD
-https://copacogen.desdeparaguay.net/teleufuturo/teleufuturo_py_alta/media.m3u8?admin=tvaccion
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Hp9jRYS/teleufuturo-new-logo-2022-by-randomuser2040-dfhph9ty-fullview.png" group-title="General",Telefuturo FHD LAT
+#EXTINF:0 type="stream" channelId="-1" group-title="General" tvg-logo="https://i.ibb.co/Hp9jRYS/tele-futuro-new-logo-2022-by-randomuser2040-dfhph9ty-fullview.png",
+Telefuturo SD
+https://copacogen.desdeparaguay.net/telefuturo/telefuturo_py_baja/index.m3u8?admin=tvaccion
+#EXTINF:0 type="stream" channelId="-1" group-title="General" tvg-logo="https://i.ibb.co/Hp9jRYS/tele-futuro-new-logo-2022-by-randomuser2040-dfhph9ty-fullview.png",
+Telefuturo HD
+https://copacogen.desdeparaguay.net/telefuturo/telefuturo_py_alta/media.m3u8?admin=tvaccion
+#EXTINF:0 type="stream" channelId="-1" group-title="General" tvg-logo="https://i.ibb.co/Hp9jRYS/tele-futuro-new-logo-2022-by-randomuser2040-dfhph9ty-fullview.png",
+Telefuturo FHD LAT
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/74.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pB0cvBG1/py-TV-v-web-2.png" group-title="General",Paraguay TV PY
+#EXTINF:0 type="stream" channelId="-1" group-title="General" tvg-logo="https://i.ibb.co/pB0cvBG1/py-TV-web-2.png",
+Paraguay TV PY
 https://stream.paraguaytv.gov.py/memfs/bbe36fed-9b49-4d1d-adaa-4bd6d1b2e386_output_0.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="General" logo="https://i.imgur.com/fkK7i8g.png",   ParaguayTV AR
 https://stream.paraguaytv.gov.py/memfs/bbe36fed-9b49-4d1d-adaa-4bd6d1b2e386.m3u8
