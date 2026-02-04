@@ -1,17 +1,13 @@
 #EXTM3U
-#EXTINF:0 type="stream" channelId="-1" group-title="General" tvg-logo="https://i.ibb.co/Hp9jRYS/tele-futuro-new-logo-2022-by-randomuser2040-dfhph9ty-fullview.png",
-Telefuturo SD
+#EXTINF:0 type="stream" channelId="-1" group-title="General" tvg-logo="https://i.ibb.co/Hp9jRYS/tele-futuro-new-logo-2022-by-randomuser2040-dfhph9ty-fullview.png", Telefuturo SD
 https://copacogen.desdeparaguay.net/telefuturo/telefuturo_py_baja/index.m3u8?admin=tvaccion
-#EXTINF:0 type="stream" channelId="-1" group-title="General" tvg-logo="https://i.ibb.co/Hp9jRYS/tele-futuro-new-logo-2022-by-randomuser2040-dfhph9ty-fullview.png",
-Telefuturo HD
+#EXTINF:0 type="stream" channelId="-1" group-title="General" tvg-logo="https://i.ibb.co/Hp9jRYS/tele-futuro-new-logo-2022-by-randomuser2040-dfhph9ty-fullview.png", Telefuturo HD
 https://copacogen.desdeparaguay.net/telefuturo/telefuturo_py_alta/media.m3u8?admin=tvaccion
-#EXTINF:0 type="stream" channelId="-1" group-title="General" tvg-logo="https://i.ibb.co/Hp9jRYS/tele-futuro-new-logo-2022-by-randomuser2040-dfhph9ty-fullview.png",
-Telefuturo FHD LAT
+#EXTINF:0 type="stream" channelId="-1" group-title="General" tvg-logo="https://i.ibb.co/Hp9jRYS/tele-futuro-new-logo-2022-by-randomuser2040-dfhph9ty-fullview.png", Telefuturo FHD LAT
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/74.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title="General" tvg-logo="https://i.ibb.co/pB0cvBG1/py-TV-web-2.png",
-Paraguay TV PY
+#EXTINF:0 type="stream" channelId="-1" group-title="General" tvg-logo="https://i.ibb.co/pB0cvBG1/py-TV-web-2.png", Paraguay TV PY
 https://stream.paraguaytv.gov.py/memfs/bbe36fed-9b49-4d1d-adaa-4bd6d1b2e386_output_0.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="General" logo="https://i.imgur.com/fkK7i8g.png",   ParaguayTV AR
+#EXTINF:0 type="stream" channelId="-1" group-title="General" logo="https://i.imgur.com/fkK7i8g.png",   ParaguayTV AR
 https://stream.paraguaytv.gov.py/memfs/bbe36fed-9b49-4d1d-adaa-4bd6d1b2e386.m3u8
 #EXTINF:0 type="stream" channelId="3789" group="General" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/512px-Telefe_%28nuevo_logo%29.png",   Telefe
 http://186.0.248.95:20202/Live/0c0a3bd149db5bb78d1b86e590380ec6/telefe_default.m3u8
