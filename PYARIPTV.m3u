@@ -1,4 +1,4 @@
-#EXTM3U
+EXTM3U
 #EXTINF:0 type="stream" channelId="-1" group-title="General" tvg-logo="https://i.ibb.co/Hp9jRYS/tele-futuro-new-logo-2022-by-randomuser2040-dfhph9ty-fullview.png",   Telefuturo SD
 https://copacogen.desdeparaguay.net/telefuturo/telefuturo_py_baja/index.m3u8?admin=tvaccion
 #EXTINF:0 type="stream" channelId="-1" group-title="General" tvg-logo="https://i.ibb.co/Hp9jRYS/tele-futuro-new-logo-2022-by-randomuser2040-dfhph9ty-fullview.png",   Telefuturo HD
