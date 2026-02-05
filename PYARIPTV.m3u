@@ -619,8 +619,7 @@ http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/37.m3u8
 #EXTINF:0 type="stream" channelId="1204" group-title="documentals", HISTORY2
 https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HISTORY2/index.m3u8
 
-#EXTINF:0 type="stream" channelId="2724" group-title="Movies" logo="https://i.ibb.co/gjWGgjX/hh.png",
-H&H
+#EXTINF:0 type="stream" channelId="2724" group-title="Movies" logo="https://i.ibb.co/gjWGgjX/hh.png", H&H
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/39.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="Movies", ID DISCOVERY
@@ -656,8 +655,7 @@ http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/49.m3u8
 #EXTINF:0 type="stream" channelId="383" group-title="Movies", SPACE
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/50.m3u8
 
-#EXTINF:0 type="stream" channelId="177" group-title="Movies",
-STAR CHANEL
+#EXTINF:0 type="stream" channelId="177" group-title="Movies", STAR CHANEL
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/51.m3u8
 
 #EXTINF:0 type="stream" channelId="2147" group-title="Movies", STUDIOS HD
