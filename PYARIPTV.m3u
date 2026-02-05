@@ -340,7 +340,7 @@ http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/40.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="Sports" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigo_Sports_2025.png/512px-Tigo_Sports_2025.png", TIGO SPORTS SD
 https://live.enhdtv.com:8081/8160/index.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="Sports" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigo_Sports_2025.png/512px-Tigo_Sports_2025.png", TIGO SPORTS HD
+#EXTINF:0 type="stream" channelId="-1" group-title="Sports" logo="https://i.ibb.co/1fZk2KkT/KN-rezice.png", Eventos PY HD
 https://corgol.com@live.enhdtv.com:8081/8160/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="Sports" logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90677_dark_360w_270h.png", TYC SPORTS
