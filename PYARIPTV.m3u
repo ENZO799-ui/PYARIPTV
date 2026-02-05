@@ -92,7 +92,7 @@ http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/12.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="General" logo="https://i.postimg.cc/rmDCV75c/paravision.png", Paravision TV
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/120.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="General" logo="https://i.imgur.com/ltJQvZd.png" Sur Paraguay (720p)
+#EXTINF:0 type="stream" channelId="-1" group-title="General" logo="https://i.imgur.com/ltJQvZd.png", Sur Paraguay (720p)
 http://181.198.105.69:8111/play/a1ve/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="General;Religious" logo="https://i.ibb.co/rwkpQx6/unnamed-2.png", Cáritas TV 
