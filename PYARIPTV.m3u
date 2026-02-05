@@ -1,11 +1,11 @@
 #EXTM3U
-#EXTINF:0 type="stream" channelId="-1" group-title="General" tvg-logo="https://i.ibb.co/Hp9jRYS/tele-futuro-new-logo-2022-by-randomuser2040-dfhph9ty-fullview.png", Telefuturo SD
+#EXTINF:0 type="stream" channelId="-1" group-title="General" logo="https://i.ibb.co/Hp9jRYS/tele-futuro-new-logo-2022-by-randomuser2040-dfhph9ty-fullview.png", Telefuturo SD
 https://copacogen.desdeparaguay.net/telefuturo/telefuturo_py_baja/index.m3u8?admin=tvaccion
 
-#EXTINF:0 type="stream" channelId="-1" group-title="General" tvg-logo="https://i.ibb.co/Hp9jRYS/tele-futuro-new-logo-2022-by-randomuser2040-dfhph9ty-fullview.png", Telefuturo HD
+#EXTINF:0 type="stream" channelId="-1" group-title="General" logo="https://i.ibb.co/Hp9jRYS/tele-futuro-new-logo-2022-by-randomuser2040-dfhph9ty-fullview.png", Telefuturo HD
 https://copacogen.desdeparaguay.net/telefuturo/telefuturo_py_alta/media.m3u8?admin=tvaccion
 
-#EXTINF:0 type="stream" channelId="-1" group-title="General" tvg-logo="https://i.ibb.co/Hp9jRYS/tele-futuro-new-logo-2022-by-randomuser2040-dfhph9ty-fullview.png", Telefuturo FHD LAT
+#EXTINF:0 type="stream" channelId="-1" group-title="General" logo="https://i.ibb.co/Hp9jRYS/tele-futuro-new-logo-2022-by-randomuser2040-dfhph9ty-fullview.png", Telefuturo FHD LAT
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/74.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="General" tvg-logo="https://i.ibb.co/pB0cvBG1/py-TV-web-2.png", Paraguay TV PY
