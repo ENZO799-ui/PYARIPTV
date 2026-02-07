@@ -20,7 +20,7 @@ http://186.0.248.95:20202/Live/0c0a3bd149db5bb78d1b86e590380ec6/telefe_default.m
 #EXTINF:0 type="stream" channelId="4032" group-title="General" logo="https://i.imgur.com/HNcCX3h.png", Telefe [Internacional]
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/81.m3u8
 
-#EXTINF:0 type="stream" channelId="4032" group-title="General" logo="", CANAL 9 
+#EXTINF:0 type="stream" channelId="4032" group-title="General" logo="https://i.imgur.com/cJHP7bU.png", CANAL 9 
 http://179.43.101.99/Live/4ebed19e324f278338425a6190627141/local-16.playlist.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="General" logo="https://i.imgur.com/BD16znv.png", LATELE SD
@@ -44,13 +44,13 @@ https://cloudtv.streaming.com.py/educanalpy/educanalpy/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="General" logo="https://educanal.com.py/wp-content/uploads/2025/10/cropped-logo-nuevo-educanal-e1761923720300-103x62.png", EduCanal HD
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/22.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="News" logo="", AR12
+#EXTINF:0 type="stream" channelId="-1" group-title="News" logo="https://i.imgur.com/dbu9nx4.png", AR12
 http://179.43.101.99/Live/4ebed19e324f278338425a6190627141/local-21.playlist.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="News" logo="", ENCUENTRO
+#EXTINF:0 type="stream" channelId="-1" group-title="News" logo="https://i.imgur.com/uBBZR1X.png", ENCUENTRO
 http://179.43.101.99/Live/4ebed19e324f278338425a6190627141/local-19.playlist.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="News" logo="", CINE.AR
+#EXTINF:0 type="stream" channelId="-1" group-title="General" logo="https://i.imgur.com/Iozv4tT.png", CINE.AR
 http://179.43.101.99/Live/4ebed19e324f278338425a6190627141/local-20.playlist.m3u8
 
 #EXTINF:0 type="stream" channelId="2434" group-title="General" logo="https://i.imgur.com/1r5T6Pw.png", BAND
@@ -92,16 +92,16 @@ http://186.0.248.95:20202/Live/cc6d01ad4b8ed9ec4c9c6115e63d71ab/c26_1080.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="General" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/512px-Canal_26_logo_%282022%29.svg.png", CANAL26 INTERNACIONAL
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/12.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="General" logo="https://i.postimg.cc/rmDCV75c/paravision.png", PARAVISION
+#EXTINF:0 type="stream" channelId="-1" group-title="General" logo="https://i.imgur.com/yd9Dw2G.png", PARAVISION
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/120.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="General" logo="", BRAVO TV
+#EXTINF:0 type="stream" channelId="-1" group-title="General" logo="https://play-lh.googleusercontent.com/LQNtZORhc9X5ABjvLBei6QPX-G9vhh6Zt1ffi_FLnVWKAsUkhCLiNrw-VwvFsevISOk=w240-h480-rw", BRAVO TV
 http://179.43.101.99/Live/4ebed19e324f278338425a6190627141/local-80.playlist.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="General;Religious" logo="https://i.ibb.co/rwkpQx6/unnamed-2.png", Cáritas TV 
 https://rds3.desdeparaguay.net/caritastv/caritastv/playlist.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="General" logo="", VOLVER TV
+#EXTINF:0 type="stream" channelId="-1" group-title="General" logo="https://i.imgur.com/PYvSZMb.png", VOLVER TV
 http://179.43.101.99/Live/4ebed19e324f278338425a6190627141/local-74.playlist.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="Science" logo="https://i.imgur.com/dAMyExY.jpg", Cosmos TV 
@@ -409,10 +409,10 @@ http://179.43.101.99/Live/4ebed19e324f278338425a6190627141/local-92.playlist.m3u
 #EXTINF:0 type="stream" channelId="-1" group-title="Sports" logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f2cbaccbaa4aa529f84b010706ac547e.webp", TUDN
 http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTVL9TbgOeYnXUEC2UjoDBYk/m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="Sports" logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/84fbcd6f24e883cf290d71b254904b66.webp", TNT SPORTS CL
+#EXTINF:0 type="stream" channelId="-1" group-title="Sports" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/512px-TNT_Sports_2021_logo.svg.png", TNT SPORTS CL
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/86.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="Sports" logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/84fbcd6f24e883cf290d71b254904b66.webp", TNT SPORTS AR
+#EXTINF:0 type="stream" channelId="-1" group-title="Sports" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/512px-TNT_Sports_2021_logo.svg.png", TNT SPORTS AR
 http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/local-ch26.playlist.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="Sports" logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c06589c968882b19431e883df28f54cf.webp" aspect-ratio="16:9", FOX DEPORTES
@@ -595,7 +595,7 @@ http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/15.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="Movies;Series" logo="https://i.imgur.com/tC3jGd4.png", Cine Premium
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/16.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="Movies;Series" logo="", CINEMAX
+#EXTINF:0 type="stream" channelId="-1" group-title="Movies;Series" logo="https://i.imgur.com/GfsmfGK.png", CINEMAX
 http://179.43.101.99/Live/4ebed19e324f278338425a6190627141/local-61.playlist.m3u8
 
 #EXTINF:0 type="stream" channelId="64" group-title="Movies;Series" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/512px-CinecanalLA.png", CineCanal
@@ -613,19 +613,22 @@ http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/19.m3u8
 #EXTINF:0 type="stream" channelId="2558" group-title="Movies;Series" logo="https://i.ibb.co/TD6cKXF0/2015-Discovery-theater-HD-logo-svg.png", DISCOVERY THEATER HD
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/21.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="documentals", TASTEMADE
+#EXTINF:0 type="stream" channelId="-1" group-title="documentals" logo="https://i.imgur.com/8s6aRwv.png", TASTEMADE
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f998c1fc54853000797bacdlivestitch/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366-4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=PY&sid=22941a63-f69a-11ea-bfbf-0242ac110002&userId=&serverSideAds=true
 
-#EXTINF:0 type="stream" channelId="-1" group-title="documentals", TASTEMADE 2
+#EXTINF:0 type="stream" channelId="-1" group-title="documentals" logo="https://i.imgur.com/8s6aRwv.png", TASTEMADE 2
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/100.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="documentals", TASTEMADE HOGAR
+#EXTINF:0 type="stream" channelId="-1" group-title="documentals" logo="https://images.pluto.tv/channels/68b887c2e77777498226a0de/colorLogoPNG_1759784264793.png", TASTEMADE HOGAR
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/68b887c2e77777498226a0delivestitch/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366-4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=PY&sid=22941a63-f69a-11ea-bfbf-0242ac110002&userId=&serverSideAds=true
 
-#EXTINF:0 type="stream" channelId="-1" group-title="documentals", TASTEMADE VIAJES
+#EXTINF:0 type="stream" channelId="-1" group-title="documentals" logo="https://images.pluto.tv/channels/68b88712e777774982269ce9/colorLogoPNG_1759784097851.png", TASTEMADE VIAJES
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/68b88712e777774982269ce9livestitch/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366-4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=PY&sid=22941a63-f69a-11ea-bfbf-0242ac110002&userId=&serverSideAds=true
 
-#EXTINF:0 type="stream" channelId="-1" group-title="Movies;Series", FILM & ARTS
+#EXTINF:0 type="stream" channelId="-1" group-title="Movies;Series" tvg-logo="https://images.pluto.tv/channels/639751f81a36b400072b8f5a/colorLogoPNG.png", KANAL D-DRAMA
+https://stitcher.pluto.tv/stitch/hls/channel/639751f81a36b400072b8f5a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=1a09f2a5-043a-11f1-8d4d-168da0c4e6cc
+
+#EXTINF:0 type="stream" channelId="-1" group-title="Movies;Series" logo="https://television.com.ar/wp-content/uploads/legacy/2016/filmandarts.jpg", FILM & ARTS
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/29.m3u8
 
 #EXTINF:0 type="stream" channelId="1204" group-title="Movies;Series" logo="https://i.ibb.co/cSf474qK/History-Logo-svg.png", HISTORY
@@ -640,13 +643,13 @@ http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/39.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="Movies;Series" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/512px-InvestigationDiscoveryLogo2020.svg.png", ID DISCOVERY
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/41.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="Movies;Series" logo="", AMC
+#EXTINF:0 type="stream" channelId="-1" group-title="Movies;Series" logo="https://i.imgur.com/L1h6W5Q.png", AMC
 http://179.43.101.99/Live/4ebed19e324f278338425a6190627141/local-76.playlist.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="Movies;Series" logo="", AMC Series
+#EXTINF:0 type="stream" channelId="-1" group-title="Movies;Series" logo="https://amcla.s3.amazonaws.com/channel_logo/index/Z9YHbjFofV_logo-amc-series.webp", AMC Series
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/42.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="Movies;Series" logo="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAZlBMVEVHcEwAJDoAGj33Sx32TB72TB73TB0AJDoAJDoAJDoAFz4AJDr2TB72TB4AJDoAJDr3TB34TR0AJDoAJDr5TR33Sh0AJDoAIjoAJDr6TB0AJDrMPi32TB72TB72TB4AJDr3TB4AIjp6S/MaAAAAInRSTlMAjyMgoLwwgbFwFf//2d9Pg0C/7JQTow3QUTcI7WasRnZaQNEl+wAAAMZJREFUeAHVzwVuBDEQRNE/DNVLwwz3P2RowYKwKCmh9dzE34zn+RCEURgDSZpmuORSRmB2MIs5SlLq8PT6OtuFi51zFXCUQ09FSWU1tVW+EmjUPrDrEtGHDlOHqDlpAF7bjtJA7uP2yXxlcJjsMJJJRQvMAPBaphTCZbIY/E5a2er7PnAsAQKraOHUPYxCZSkB14U8cIbKNO2U9/FjW2etPFj3i8UE10pnnLRfz5jOk/W4eQBZeb1qm8zOcLUP8lsbA/5rngH3PQw0Ed4W8AAAAABJRU5ErkJggg==", A3SERIES
+#EXTINF:0 type="stream" channelId="-1" group-title="Movies;Series" logo="https://static.wikia.nocookie.net/logopedia/images/8/81/Atreseries_2020.svg/revision/latest/scale-to-width-down/71?cb=20230804114335", A3SERIES
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/44.m3u8
 
 #EXTINF:0 type="stream" channelId="895" group-title="Movies;Series" logo="https://i.imgur.com/QpDkrmT.png", TCM
