@@ -41,6 +41,9 @@ https://cloudtv.streaming.com.py/educanalpy/educanalpy/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="General" logo="https://educanal.com.py/wp-content/uploads/2025/10/cropped-logo-nuevo-educanal-e1761923720300-103x62.png", EduCanal HD
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/22.m3u8
 
+#EXTINF:0 type="stream" channelId="-1" group-title="General" logo="", INFORMACION PEDIODISTICA
+http://179.43.101.99/Live/4ebed19e324f278338425a6190627141/local-21.playlist.m3u8
+
 #EXTINF:0 type="stream" channelId="2434" group-title="General" logo="https://i.imgur.com/1r5T6Pw.png", BAND
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/77.m3u8
 
