@@ -56,6 +56,9 @@ http://179.43.101.99/Live/4ebed19e324f278338425a6190627141/local-20.playlist.m3u
 #EXTINF:0 type="stream" channelId="2434" group-title="General" logo="https://i.imgur.com/1r5T6Pw.png", BAND
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/77.m3u8
 
+#EXTINF:0 type="stream" channelId="2434" group-title="General" logo=https://upload.wikimedia.org/wikipedia/pt/thumb/1/10/Logotipo_da_Record.png/512px-Logotipo_da_Record.png", RECORD TV
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/79.m3u8
+
 #EXTINF:0 type="stream" channelId="-1" group-title="General" logo="https://bestleague.world/img/tvpublica.webp", TVPUBLICA
 http://186.0.248.95:20202/Live/0c0a3bd149db5bb78d1b86e590380ec6/tvpublica_480.m3u8
 
@@ -153,7 +156,7 @@ http://186.0.248.95:20202/Live/0c0a3bd149db5bb78d1b86e590380ec6/a24_720.m3u8
 http://186.0.248.95:20202/Live/cc6d01ad4b8ed9ec4c9c6115e63d71ab/canalciud_1080.m3u8
 
 #EXTINF:0 type="stream" channelId="3800" group-title="General" logo="https://i.imgur.com/bPJgtCg.png", GLOBO
-https://iptv.vivatele.com:443/live/viva_padrao/viva2384/1.m3u8
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/80.m3u8
 
 #EXTINF:0 type="stream" channelId="4667" group-title="General" logo="https://i.imgur.com/Gj1kqH5.png", LaNacion+
 http://186.0.248.95:20202/Live/cc6d01ad4b8ed9ec4c9c6115e63d71ab/lntv_1080.m3u8
@@ -194,8 +197,11 @@ https://rds3gen.desdeparaguay.net/universotv/universotv_py_alta/chunklist.m3u8?a
 #EXTINF:0 type="stream" channelId="-1" group-title="General" logo="https://www.popular.com.py/joajishi/assets/img/tag-3.png", POPU TV HD
 https://copacogen.desdeparaguay.net/universotv/universotv_py_alta/playlist.m3u8?admin=nacion
 
-#EXTINF:0 type="stream" channelId="-1" group-title="Music" logo="https://i.imgur.com/XwmUbfp.png", VENUS MEDIA 
+#EXTINF:0 type="stream" channelId="-1" group-title="Music" logo="https://i.imgur.com/XwmUbfp.png", VENUS MEDIA SD
 https://tigocloud.desdeparaguay.net/venusmedia/venusmedia/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="Music" logo="https://i.imgur.com/XwmUbfp.png", VENUS MEDIA HD
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/66.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="Music" logo="https://i.imgur.com/bXWzstH.png", FARRA TV
 https://stream.farra.com.py/live/farra_low.m3u8
@@ -203,8 +209,11 @@ https://stream.farra.com.py/live/farra_low.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="Music" logo="https://i.ibb.co/jz9XkvP/e40.png", E40 TV
 https://rds3gen.desdeparaguay.net/e40tv/e40tv_py_alta/playlist.m3u8?admin=tvaccion
 
-#EXTINF:0 type="stream" channelId="-1" group-title="Music" logo="https://i.imgur.com/oMML5Ue.png", TROPICALIA TV
+#EXTINF:0 type="stream" channelId="-1" group-title="Music" logo="https://i.imgur.com/oMML5Ue.png", TROPICALIA TV SD
 https://copacogen.desdeparaguay.net/tropicaliatv/tropicaliatv_py_alta/chunklist.m3u8?admin=nacion
+
+#EXTINF:0 type="stream" channelId="-1" group-title="Music" logo="https://i.imgur.com/oMML5Ue.png", TROPICALIA TV HD
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/67.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="Music" logo="https://i.imgur.com/XLWkERe.png", LA BOCINA LATINA
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/la-bocina-latina/master.m3u8?ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.deviceCategory=__DEVICE_CATEGORY__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=23040&ads.content_duration=18000&ads.episode_id=116281&ads.show_id=4600&ads.showCategories=IAB1&ads.episodeCategories=IAB1&ads.genre=Music%2CMusic%20Video%2CContemporary%20Hits%2FPop%2FTop%2040%2CReggae%2CHip%20Hop%20Music%2CSpanish&ads.showRating=TV-14&ads.episodeRating=TV-14&ads.language=es&ads.showtitle=La%20Bocina%20Latina&ads.episodetitle=La%20Bocina%20Latina&ads.keywords=Music%2CSpanish%2CLatin%2Cespanol&ads.contenturl=__PAGEURL_ESC__&ads.gdprConsent=__GDPR_CONSENT__&ads.paln=__PALN__&ads.tagname=risefinancial&ads.islive=1&ads.streamtype=live&ads.vf=20241020
@@ -409,6 +418,9 @@ http://179.43.101.99/Live/4ebed19e324f278338425a6190627141/local-92.playlist.m3u
 #EXTINF:0 type="stream" channelId="-1" group-title="Sports" logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f2cbaccbaa4aa529f84b010706ac547e.webp", TUDN
 http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTVL9TbgOeYnXUEC2UjoDBYk/m3u8
 
+#EXTINF:0 type="stream" channelId="-1" group-title="Sports" logo="https://i.imgur.com/ZPYK5jr.png", COMBATE BR
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/73.m3u8
+
 #EXTINF:0 type="stream" channelId="-1" group-title="Sports" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/512px-TNT_Sports_2021_logo.svg.png", TNT SPORTS CL
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/86.m3u8
 
@@ -556,6 +568,9 @@ http://179.43.101.99/Live/4ebed19e324f278338425a6190627141/local-31.playlist.m3u
 #EXTINF:0 type="stream" channelId="-1" group-title="Kids" logo="https://bestleague.world/img/cart.webp", CARTOONITO
 http://179.43.101.99/Live/4ebed19e324f278338425a6190627141/local-30.playlist.m3u8
 
+#EXTINF:0 type="stream" channelId="-1" group-title="Kids" logo="https://bestleague.world/img/cart.webp", CARTOONITO+
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/70.m3u8
+
 #EXTINF:0 type="stream" channelId="-1" group-title="Kids" logo="https://bestleague.world/img/disney.webp", DISNEY CHANNEL
 http://179.43.101.99/Live/4ebed19e324f278338425a6190627141/local-32.playlist.m3u8
 
@@ -694,43 +709,49 @@ http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/57.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="Documentals" logo="https://i.imgur.com/ByMyRI9.png", ELGOURMET
 http://179.43.101.99/Live/4ebed19e324f278338425a6190627141/local-25.playlist.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="Movies;Series" logo="https://geo.edge.pontiscloud.com:9002/images/1282/CH_LOGO/160/160/0/0/21817888076947.png", UNIVERSAL CINEMA
+#EXTINF:0 type="stream" channelId="-1" group-title="Movies;Series" logo="https://i.imgur.com/XxfET68.png", UNIVERSAL CINEMA
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/61.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="Movies;Series" logo="https://geo.edge.pontiscloud.com:9002/images/1283/CH_LOGO/160/160/0/0/94843453076948.png", UNIVERSAL COMEDY
+#EXTINF:0 type="stream" channelId="-1" group-title="Movies;Series" logo="https://i.imgur.com/avBL8pQ.png", UNIVERSAL COMEDY
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/62.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="Movies;Series" logo="https://geo.edge.pontiscloud.com:9002/images/1284/CH_LOGO/160/160/0/0/34307524076949.png", UNIVERSAL CRIME
+#EXTINF:0 type="stream" channelId="-1" group-title="Movies;Series" logo="https://i.imgur.com/OwSlGMu.png", UNIVERSAL CRIME
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/63.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="Movies;Series" logo="https://geo.edge.pontiscloud.com:9002/images/1281/CH_LOGO/160/160/0/0/24764893076951.png", UNIVERSAL REALITY
+#EXTINF:0 type="stream" channelId="-1" group-title="Movies;Series" logo="https://i.imgur.com/KdFk80C.png", UNIVESAL PREMIER
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/64.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="Movies;Series" logo="https://i.imgur.com/mqfUD1R.png", UNIVERSAL REALITY
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/65.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="Movies;Series" logo="https://i.imgur.com/Rvm38Mu.png", TLN NOVELAS
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/75.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="Movies;Series" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/512px-Logo_Lifetime_2020.svg.png", LIFETIME
 http://179.43.101.99/Live/4ebed19e324f278338425a6190627141/Lifetime.playlist.m3u8
 
-#EXTINF:0 type="stream" channelId="1330" group-title="Movies;Series" logo="https://geo.edge.pontiscloud.com:9002/images/100/CH_LOGO/160/160/0/0/228799490721.png", HBO
+#EXTINF:0 type="stream" channelId="1330" group-title="Movies;Series" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/HBO_Latino_%282014%29.svg/512px-HBO_Latino_%282014%29.svg.png", HBO
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/32.m3u8
 
-#EXTINF:0 type="stream" channelId="935" group-title="Movies;Series" logo="https://geo.edge.pontiscloud.com:9002/images/101/CH_LOGO/160/160/0/0/93371734072127.png", HBO 2
+#EXTINF:0 type="stream" channelId="935" group-title="Movies;Series" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/512px-HBO2_logo.svg.png", HBO 2
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/30.m3u8
 
-#EXTINF:0 type="stream" channelId="2585" group-title="Movies;Series" logo="https://geo.edge.pontiscloud.com:9002/images/124/CH_LOGO/160/160/0/0/10237380072165.png", HBO+
+#EXTINF:0 type="stream" channelId="2585" group-title="Movies;Series" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/512px-Logohboplus2019.svg.png", HBO+
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/36.m3u8
 
-#EXTINF:0 type="stream" channelId="2584" group-title="Movies;Series" logo="https://geo.edge.pontiscloud.com:9002/images/102/CH_LOGO/160/160/0/0/7354519807335.png", HBO Family
+#EXTINF:0 type="stream" channelId="2584" group-title="Movies;Series" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/512px-HBO_Family.svg.png", HBO Family
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/31.m3u8
 
-#EXTINF:0 type="stream" channelId="2587" group-title="Movies;Series" logo="https://geo.edge.pontiscloud.com:9002/images/108/CH_LOGO/160/160/0/0/6041444607334.png", HBO Xtreme
+#EXTINF:0 type="stream" channelId="2587" group-title="Movies;Series" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/512px-HBO_Xtreme.svg.png", HBO Xtreme
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/35.m3u8
 
-#EXTINF:0 type="stream" channelId="2583" group-title="Movies;Series" logo="https://geo.edge.pontiscloud.com:9002/images/49/CH_LOGO/160/160/0/0/3657655307500.png", HBO Signature
+#EXTINF:0 type="stream" channelId="2583" group-title="Movies;Series" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/HBO_Signature_Asia.png/512px-HBO_Signature_Asia.png", HBO Signature
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/34.m3u8
 
-#EXTINF:0 type="stream" channelId="361" group-title="Movies;Series" logo="https://geo.edge.pontiscloud.com:9002/images/109/CH_LOGO/160/160/0/0/68908128073927.png", HBO POP
+#EXTINF:0 type="stream" channelId="361" group-title="Movies;Series" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/512px-HBO_Pop.svg.png", HBO POP
 http://179.43.101.99/Live/4ebed19e324f278338425a6190627141/local-108.playlist.m3u8
 
-#EXTINF:0 type="stream" channelId="2725" group-title="Movies;Series" logo="https://geo.edge.pontiscloud.com:9002/images/107/CH_LOGO/160/160/0/0/61157416071448.png", HBO MUDI
+#EXTINF:0 type="stream" channelId="2725" group-title="Movies;Series" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/512px-HBO_Mundi.svg.png", HBO MUDI
 http://179.43.101.99/Live/4ebed19e324f278338425a6190627141/local-110.playlist.m3u8
 
 #EXTINF:0 type="stream" channelId="2903" group-title="Movies;Series" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/512px-Warner2018LA.png", WARNER TV
