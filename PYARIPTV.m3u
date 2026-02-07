@@ -92,11 +92,17 @@ http://186.0.248.95:20202/Live/cc6d01ad4b8ed9ec4c9c6115e63d71ab/c26_1080.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="General" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/512px-Canal_26_logo_%282022%29.svg.png", CANAL26 INTERNACIONAL
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/12.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="General" logo="https://i.postimg.cc/rmDCV75c/paravision.png", Paravision Paraguay (720p)
+#EXTINF:0 type="stream" channelId="-1" group-title="General" logo="https://i.postimg.cc/rmDCV75c/paravision.png", PARAVISION
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/120.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="General" logo="", BRAVO TV
+http://179.43.101.99/Live/4ebed19e324f278338425a6190627141/local-80.playlist.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="General;Religious" logo="https://i.ibb.co/rwkpQx6/unnamed-2.png", Cáritas TV 
 https://rds3.desdeparaguay.net/caritastv/caritastv/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="General" logo="", VOLVER TV
+http://179.43.101.99/Live/4ebed19e324f278338425a6190627141/local-74.playlist.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="Science" logo="https://i.imgur.com/dAMyExY.jpg", Cosmos TV 
 https://video.hostingcaaguazu.com:19360/cosmostv/cosmostv.m3u8
