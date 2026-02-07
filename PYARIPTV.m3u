@@ -640,6 +640,9 @@ http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/39.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="Movies;Series" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/512px-InvestigationDiscoveryLogo2020.svg.png", ID DISCOVERY
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/41.m3u8
 
+#EXTINF:0 type="stream" channelId="-1" group-title="Movies;Series" logo="", AMC
+http://179.43.101.99/Live/4ebed19e324f278338425a6190627141/local-76.playlist.m3u8
+
 #EXTINF:0 type="stream" channelId="-1" group-title="Movies;Series" logo="", AMC Series
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/42.m3u8
 
