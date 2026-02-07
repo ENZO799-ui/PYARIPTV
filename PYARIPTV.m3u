@@ -589,6 +589,9 @@ http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/15.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="Movies;Series" logo="https://i.imgur.com/tC3jGd4.png", Cine Premium
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/16.m3u8
 
+#EXTINF:0 type="stream" channelId="-1" group-title="Movies;Series" logo="", CINEMAX
+http://179.43.101.99/Live/4ebed19e324f278338425a6190627141/local-61.playlist.m3u8
+
 #EXTINF:0 type="stream" channelId="64" group-title="Movies;Series" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/512px-CinecanalLA.png", CineCanal
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/14.m3u8
 
