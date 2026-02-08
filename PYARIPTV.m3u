@@ -238,12 +238,6 @@ https://rds3gen.desdeparaguay.net/satelitaltv/satelitaltv/chunklist.m3u8?admin=n
 #EXTINF:0 type="stream" channelId="-1" group-title="Inside" logo="https://scontent.fasu4-1.fna.fbcdn.net/v/t39.30808-6/279588644_648739803227570_1250496761960320068_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=d-pMgsORyzQQ7kNvwHhcdXa&_nc_oc=Adn3AqTPvXgJjzRKxTFS9MwSQFTIuqrSoM3v-j6-awFy5wAe9deIm0gOV4G1uz27PI0&_nc_zt=23&_nc_ht=scontent.fasu4-1.fna&_nc_gid=h2w_-ElVRxD9U3F1ZrN6vg&oh=00_Afp0AN4289DWcRHYTMDWY7Zu25NtYG5LWuKmpiOmWqVEZg&oe=69806355", UGA TV
 https://copacogen.desdeparaguay.net/ugatv/ugatv/playlist.m3u8?admin=tvaccion
 
-#EXTINF:0 type="stream" channelId="-1" group-title="Inside", MQV TV 
-https://www.desde-paraguay.com/mqvtv.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="Inside" logo="https://i.postimg.cc/q761GQm6/motor-sur-media.png", MOTOR SUR MEDIA
-https://video.hostingcaaguazu.com:19360/motorsurtv/motorsurtv.m3u8
-
 #EXTINF:0 type="stream" channelId="4039" group-title="Internacional", GARAJE TV
 https://stream1.sersat.com/hls/garagetv.m3u8
 
