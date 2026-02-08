@@ -394,7 +394,7 @@ http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/25.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="Sports" logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91513_dark_360w_270h.png", ESPN 7
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/26.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="Sports" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/512px-ESPN_Premium_logo.svg.png", ESPN PREMIUN OPC 1
+#EXTINF:0 type="stream" channelId="-1" group-title="Sports" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/512px-ESPN_Premium_logo.svg.png", EVENTOS ESPN-DSPORTS-DISNEY
 http://179.43.101.99/Live/4ebed19e324f278338425a6190627141/local-05.playlist.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="Sports" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/512px-ESPN_Premium_logo.svg.png", ESPN PREMIUN OPC 2
