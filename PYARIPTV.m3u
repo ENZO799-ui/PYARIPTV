@@ -11,7 +11,7 @@ http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/74.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="❎PARAGUAY❎" tvg-logo="https://i.ibb.co/pB0cvBG1/py-TV-web-2.png", PARAGUAY TV
 https://stream.paraguaytv.gov.py/memfs/bbe36fed-9b49-4d1d-adaa-4bd6d1b2e386_output_0.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="❎ARGENTINA❎" logo="https://i.imgur.com/fkK7i8g.png", ParaguayTV AR
+#EXTINF:0 type="stream" channelId="-1" group-title="❎ARGENTINA❎" logo="https://i.imgur.com/fkK7i8g.png", PARAGUAY TV 
 https://stream.paraguaytv.gov.py/memfs/bbe36fed-9b49-4d1d-adaa-4bd6d1b2e386.m3u8
 
 #EXTINF:0 type="stream" channelId="3789" group-title="❎ARGENTINA❎" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/512px-Telefe_%28nuevo_logo%29.png", Telefe
