@@ -265,9 +265,6 @@ https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 #EXTINF:0 type="stream" channelId="2691" group-title="⏩INTERNACIONAL⏪" logo="https://images.pluto.tv/channels/646ccdd0939a5900088a1980/colorLogoPNG.png", AZ CORAZÓN
 https://stitcher.pluto.tv/stitch/hls/channel/646ccdd0939a5900088a1980/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=1b8a1e28-ff83-11f0-9944-ced16f20231a
 
-#EXTINF:0 type="stream" channelId="255" group-title="⏩INTERNACIONAL⏪" logo="https://i.imgur.com/UtFXjIn.png", AZTECA 7
-http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTdZSA7RKb-aBIqN6D8DKyyQ/m3u8
-
 #EXTINF:0 type="stream" channelId="-1" group-title="⏩INTERNACIONAL⏪" logo="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAA2FBMVEX////+9fXoVVvpYmb4ys3xnaDeAADjHifwl5r85+jt8PqmsuHcMz3fAAvfBRLfAADnWV7Tqbygs+XGz+xecskAAKwyDY/iAADBABd3AGYEE50AFrDh5fVRZ8UAKLWcFlarE0hSJIoALa0AL7bX3fH19fUBJKfYAwbQCBqPGWFgF33mT1T0srSxACjjLzb0uLrthYj2wMP62tvzq67jKzPqcHXreHz3zM797e7kPUThDhvsf4P1jox6X6YAAKGVF1yeSYHDFDc+J5aIl9eZms7al6e2bpOuueR71+B7AAABaUlEQVR4AXSShWLDIBBAqV3osnBM6+5KGpe5/v8f7RqbvwR9OLCUUrlSZf9RAwCN1/8wJ7p+aghhIMoz/Vw/clHIy6vrhkhAbLbaHeKqm8tef0AyxWjgcDSedKYzIpHzhfgCNpar9pTlcl10LLpvtqVs2F0DAAwKSYJgICLsU6lvlVLm5qCIrSaVZVm2g4J9cnDT1EuHs8AsjDqYJP2tsjkltYAxtHLJKyF4lEh57FCGLWMyNX4Sq3TYPUlJspQetRVVA5qnRLVB3XIymRFjtN/4rMRpMZojSFbgkEu0S0GQ9qRMnVNS3I7Kmm2zrUiLfbKBjUdI2HtH3Ehzee3mdppIA1JEcXwAuLhLpV/BhpGdd8g53zsVaNx3EknUHx4bqY/iWsxNDxtPhWSXnafBsgFCgDRBKa3x2P98Cd3n5+eX1w0CrQ1MDo2353f2A990kus0RMD+oKTKSNpj/2CZGlrsX0rBxxiIAgBpeCxrBWVWQwAAAABJRU5ErkJggg==", SEO TV
 https://fb.tv.bo/hls/SEOTVSD.m3u8
 
