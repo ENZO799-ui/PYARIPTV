@@ -784,7 +784,7 @@ https://dum8zv1rbdjj2.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 #EXTINF:0 type="stream" channelId="1380" group-title="✅TDT EUROPE ES✅" logo="https://graph.facebook.com/clantve/picture?width=200&height=200", CLAN INTERNACIONAL
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/clan_int_main_1080.m3u8
 
-#EXTINF:0 type="stream" channelId="378" group-title="✅TDT EUROPE ES✅" logo="https://p1.hiclipart.com/preview/31/450/454/background-hd-logo-tve-internacional-la-1-rtve-tve-hd-blue-text-png-clipart.jpg", TVE ES
+#EXTINF:0 type="stream" channelId="378" group-title="✅TDT EUROPE ES✅" logo="https://p1.hiclipart.com/preview/457/71/652/rtve-blue-television-television-channel-broadcasting-teledeporte-public-broadcasting-la-1-tve-internacional-png-clipart.jpg", TVE ES
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_1080.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="✅TDT EUROPE ES✅" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Star_TVE_2026.svg/960px-Star_TVE_2026.svg.png", STAR ES
