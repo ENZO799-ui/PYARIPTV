@@ -748,7 +748,7 @@ http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/87.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="✅CINES Y SERIES✅" logo="https://i.imgur.com/RIplC7X.png", CANAL VIX
 https://jmp2.uk/stvp-US2200005Y2
 
-#EXTINF:0 type="stream" channelId="2813" group-title="✅TDT EUROPE ES✅" logo="https://w7.pngwing.com/pngs/1009/538/png-transparent-la-1-television-la-2-rtve-audiencia-others-television-blue-angle-thumbnail.png", 1 ES
+#EXTINF:0 type="stream" channelId="2813" group-title="✅TDT EUROPE ES✅" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Logo_La_1.svg/960px-Logo_La_1.svg.png", 1 ES
 https://ztnr.rtve.es/ztnr/1688877.m3u8
 
 #EXTINF:0 type="stream" channelId="1321" group-title="✅TDT EUROPE ES✅" logo="https://e7.pngegg.com/pngimages/502/146/png-clipart-la-2-logo-television-m3u-caldo-television-blue.png", 2 ES
