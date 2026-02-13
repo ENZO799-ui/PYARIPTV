@@ -206,6 +206,9 @@ http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/66.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="⏩MUSICALES⏪" logo="https://i.imgur.com/bXWzstH.png", FARRA TV
 https://stream.farra.com.py/live/farra_low.m3u8
 
+#EXTINF:0 type="stream" channelId="-1" group-title="⏩MUSICALES⏪" logo="https://farra.com.py/wp-content/uploads/2025/04/LOGO-DE-FARRA_2-1.png", FARRA PLAY
+http://159.203.148.226/live/farra.m3u8
+
 #EXTINF:0 type="stream" channelId="-1" group-title="⏩MUSICALES⏪" logo="https://i.ibb.co/jz9XkvP/e40.png", E40 TV
 https://rds3gen.desdeparaguay.net/e40tv/e40tv_py_alta/playlist.m3u8?admin=tvaccion
 
@@ -424,10 +427,10 @@ https://jmp2.uk/stvp-US400006630
 #EXTINF:0 type="stream" channelId="-1" group-title="⏩MUSICALES|VEVO⏪" logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3600008WY_20251028T011144SQUARE.png", Vevo Pop
 https://d128y56w6v2kax.cloudfront.net/playlist/amg00056-vevotv-vevopopau-samsungau/playlist.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="⏩MUSICALES|VEVO⏪" logo="https://i.imgur.com/dZHktKR.png", Vevo Pop Germany
+#EXTINF:0 type="stream" channelId="-1" group-title="⏩MUSICALES|VEVO⏪" logo="https://i.imgur.com/dZHktKR.png", Vevo Pop Deutsch
 https://amg00056-amg00056c7-rakuten-de-3245.playouts.now.amagi.tv/playlist.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="⏩MUSICALES|VEVO⏪" logo="https://i.imgur.com/dZHktKR.png", Vevo Pop Italy
+#EXTINF:0 type="stream" channelId="-1" group-title="⏩MUSICALES|VEVO⏪" logo="https://i.imgur.com/dZHktKR.png", Vevo Pop Italian
 https://amg00056-amg00056c8-rakuten-it-3239.playouts.now.amagi.tv/playlist.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="⏩MUSICALES|VEVO⏪" logo="https://i.imgur.com/dZHktKR.png", Vevo Pop Español
@@ -436,8 +439,17 @@ https://amg00056-amg00056c10-rakuten-es-3242.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="⏩MUSICALES|DIVERSOS⏪" logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US10000135V_20260210T002209SQUARE.png", SMTOWN
 https://jmp2.uk/stvp-US10000135V
 
+#EXTINF:0 type="stream" channelId="-1" group-title="⏩MUSICALES|DIVERSOS⏪" logo="https://i.imgur.com/B7ILXMc.png", NEW K-POP
+https://newidco-newkid-1-eu.xiaomi.wurl.tv/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="⏩MUSICALES|DIVERSOS⏪" logo="https://tvomix.com/Logos/Kpopmix.png", K-POP MIX
+https://cloud.tvomix.com/KPOPMIX/index.m3u8
+
 #EXTINF:0 type="stream" channelId="-1" group-title="⏩MUSICALES|DIVERSOS⏪" logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US39000038W_20251202T005927SQUARE.png", K-POP by CJ ENM
 https://jmp2.uk/stvp-US39000038W
+
+#EXTINF:0 type="stream" channelId="-1" group-title="⏩MUSICALES|DIVERSOS⏪" logo="https://i.imgur.com/Tf0vweF.png", K-POP TV PLAY
+https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="⏩MUSICALES|DIVERSOS⏪" logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3000013FJ_20251014T230117SQUARE.png", NEW KPOP
 https://jmp2.uk/stvp-USAJ3000013FJ
