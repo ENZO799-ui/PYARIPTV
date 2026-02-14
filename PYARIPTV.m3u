@@ -38,10 +38,10 @@ https://rds3.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="❎PARAGUAY❎" logo="https://i.imgur.com/7gHFKPZ.png", Tv Aire PY
 https://video.hostingcaaguazu.com:19360/tvairepy/tvairepy.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="❎PARAGUAY❎" logo="https://educanal.com.py/wp-content/uploads/2025/10/cropped-logo-nuevo-educanal-e1761923720300-103x62.png", EduCanal SD
+#EXTINF:0 type="stream" channelId="-1" group-title="❎PARAGUAY❎" logo="https://educanal.com.py/wp-content/uploads/2026/02/cropped-logo-nuevo-educanal-e1770072292135-135x82.png", EduCanal SD
 https://cloudtv.streaming.com.py/educanalpy/educanalpy/playlist.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="❎PARAGUAY❎" logo="https://educanal.com.py/wp-content/uploads/2025/10/cropped-logo-nuevo-educanal-e1761923720300-103x62.png", EduCanal HD
+#EXTINF:0 type="stream" channelId="-1" group-title="❎PARAGUAY❎" logo="https://educanal.com.py/wp-content/uploads/2026/02/cropped-logo-nuevo-educanal-e1770072292135-135x82.png", EduCanal HD
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/22.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="❎ARGENTINA❎" logo="https://i.imgur.com/dbu9nx4.png", AR12
