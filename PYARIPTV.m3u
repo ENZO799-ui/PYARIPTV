@@ -241,6 +241,39 @@ https://copacogen.desdeparaguay.net/ugatv/ugatv/playlist.m3u8?admin=tvaccion
 #EXTINF:0 type="stream" channelId="4039" group-title="⏩INTERNACIONAL⏪", GARAJE TV
 https://stream1.sersat.com/hls/garagetv.m3u8
 
+#EXTINF:0 type="stream" channelId="-1" group-title="©️ON DEMAND©️" logo="https://video.freetv.com/themes/custom/oly/freetv/logo.png", FREETV Drama
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinereal-xiaomi/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="©️ON DEMAND©️" logo="https://video.freetv.com/themes/custom/oly/freetv/logo.png", FREETV Sureño
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinesureno-xiaomi/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="©️ON DEMAND©️" logo="https://video.freetv.com/themes/custom/oly/freetv/logo.png", FREETV Saber Más
+https://stream.ads.ottera.tv/cl/260214d68g0rmb418jfhckddhg/1920x1080_4787200_1_f.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="©️ON DEMAND©️" logo="https://video.freetv.com/themes/custom/oly/freetv/logo.png", FREETV Clasico
+https://stream.ads.ottera.tv/cl/260214d68frt97apao0u3cqjtg/640x360_1126400_4_f.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="©️ON DEMAND©️" logo="https://video.freetv.com/themes/custom/oly/freetv/logo.png", FREETV Terror
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-horrorfy-xiaomi/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="©️ON DEMAND©️" logo="https://video.freetv.com/themes/custom/oly/freetv/logo.png", FREETV Hits
+https://stream.ads.ottera.tv/cl/260214d68fvlvcceumam8mhcfg/1280x720_3071200_0_f.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="©️ON DEMAND©️" logo="https://video.freetv.com/themes/custom/oly/freetv/logo.png", FREETV Live
+https://stream.ads.ottera.tv/cl/260214d68fum3es0q4l35svbm0/1280x720_3071200_0_f.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="©️ON DEMAND©️" logo="https://video.freetv.com/themes/custom/oly/freetv/logo.png", FREETV Familia
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-juntos-xiaomi/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="©️ON DEMAND©️" logo="https://video.freetv.com/themes/custom/oly/freetv/logo.png", FREETV Banda
+https://stream.ads.ottera.tv/cl/260214d68ftqucdnjofp0dgs70/1920x1080_4787200_1_f.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="©️ON DEMAND©️" logo="https://video.freetv.com/themes/custom/oly/freetv/logo.png", FREETV Accion
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-topcinelatam-xiaomi/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="©️ON DEMAND©️" logo="https://video.freetv.com/themes/custom/oly/freetv/logo.png", FREETV Estella 
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucinelatam-xiaomi/playlist.m3u8
+
 #EXTINF:0 type="stream" channelId="-1" group-title="❎RELIGION❎" logo="https://upload.wikimedia.org/wikipedia/commons/0/03/New_EWTN_logo.jpg", EWTV
 http://186.0.248.95:20202/Live/e8aa75575feac7685e754e2b4094a2e1/EWTN_default.m3u8
 
@@ -262,8 +295,14 @@ http://186.0.248.95:20202/Live/0c0a3bd149db5bb78d1b86e590380ec6/tn_720.m3u8
 #EXTINF:0 type="stream" channelId="1972" group-title="✅NOTICIAS✅" logo="http://186.0.248.95:20202/images/CNNesp_285.png", CNN
 http://186.0.248.95:20202/Live/0c0a3bd149db5bb78d1b86e590380ec6/CNNesp_480.m3u8
 
+#EXTINF:0 type="stream" channelId="1972" group-title="✅NOTICIAS✅" logo="https://i.imgur.com/8t9mdg9.png", EURONEWS
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews-spa/euronews-es.m3u8?ads.vf=DLlKFAN37a8
+
 #EXTINF:0 type="stream" channelId="2691" group-title="⏩INTERNACIONAL⏪" logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Azteca_Internacional_logo_2023.png", TV AZTECA INTERCACIONAL
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
+
+#EXTINF:0 type="stream" channelId="2691" group-title="⏩INTERNACIONAL⏪" logo="https://i.imgur.com/MOsWriY.png", LATINA PE
+https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
 
 #EXTINF:0 type="stream" channelId="2691" group-title="⏩INTERNACIONAL⏪" logo="https://images.pluto.tv/channels/646ccdd0939a5900088a1980/colorLogoPNG.png", AZ CORAZÓN
 https://stitcher.pluto.tv/stitch/hls/channel/646ccdd0939a5900088a1980/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=1b8a1e28-ff83-11f0-9944-ced16f20231a
@@ -793,16 +832,16 @@ http://179.43.101.99/Live/4ebed19e324f278338425a6190627141/local-30.playlist.m3u
 #EXTINF:0 type="stream" channelId="-1" group-title="⏩INFANTILES⏪" logo="https://bestleague.world/img/cart.webp", CARTOONITO HD
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/70.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="⏩INFANTILES⏪" logo="https://bestleague.world/img/disney.webp", DISNEY CHANNEL
+#EXTINF:0 type="stream" channelId="-1" group-title="⏩INFANTILES⏪" logo="https://i.imgur.com/UxrAiAe.png", DISNEY CHANNEL
 http://179.43.101.99/Live/4ebed19e324f278338425a6190627141/local-32.playlist.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="⏩INFANTILES⏪" logo="https://i.ibb.co/TdmBjrd/disney-j-R.png", DISNEY JR.
+#EXTINF:0 type="stream" channelId="-1" group-title="⏩INFANTILES⏪" logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg", DISNEY JR.
 http://179.43.101.99/Live/4ebed19e324f278338425a6190627141/local-35.playlist.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="⏩INFANTILES⏪" logo="https://i.imgur.com/G1J4IsT.png", NICKELODEON
 http://179.43.101.99/Live/4ebed19e324f278338425a6190627141/local-33.playlist.m3u8
 
-#EXTINF:0 type="stream" channelId="2710" group-title="⏩INFANTILES⏪" logo="https://images.pluto.tv/channels/5ddd7cb2cbb9010009b4fe32/colorLogoPNG_1748446493242.png", NICK JR
+#EXTINF:0 type="stream" channelId="2710" group-title="⏩INFANTILES⏪" logo="https://i.imgur.com/OmmWgcr.png", NICK JR
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddd7cb2cbb9010009b4fe32/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366-4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=PY&sid=22941a63-f69a-11ea-bfbf-0242ac110002&userId=&serverSideAds=true
 
 #EXTINF:0 type="stream" channelId="2709" group-title="⏩INFANTILES⏪" logo="https://i.imgur.com/KZq73CE.png", TEENNICK
