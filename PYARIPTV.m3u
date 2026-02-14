@@ -29,7 +29,7 @@ https://copacotf.desdeparaguay.net/latele/latele_py_baja/playlist.m3u8?admin=tva
 #EXTINF:0 type="stream" channelId="-1" group-title="❎PARAGUAY❎" logo="https://i.imgur.com/BD16znv.png", LATELE HD
 https://copacotf.desdeparaguay.net/latele/latele_py_alta/playlist.m3u8?admin=tvaccion
 
-#EXTINF:0 type="stream" channelId="-1" group-title="❎PARAGUAY❎" logo="https://media.licdn.com/dms/image/sync/v2/D4D27AQEBRRvx7JRHmg/articleshare-shrink_800/articleshare-shrink_800/0/1712568751373?e=2147483647&v=beta&t=94F1Rfn73j5ykg3LkiuyH04vAldudI99LRelXDlOecg", ABC-TV
+#EXTINF:0 type="stream" channelId="-1" group-title="❎PARAGUAY❎" logo="https://upload.wikimedia.org/wikipedia/commons/c/c1/Abc_color.PNG", ABC-TV
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/7.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="❎PARAGUAY❎" logo="https://i.ibb.co/1fb5BtN/unnamed.png", 4D+ TV
@@ -83,7 +83,7 @@ http://186.0.248.95:20202/Live/0c0a3bd149db5bb78d1b86e590380ec6/c5n_480.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="❎PARAGUAY❎" logo="https://i.ibb.co/Z6y9wbMT/330x330-logo-grande-C9-N.png", C9N
 https://alba-py-c9n-c9n.stream.mediatiquestream.com/index.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="❎PARAGUAY❎" logo="https://bestleague.world/img/trecepy.webp", RPC TRECE PY
+#EXTINF:0 type="stream" channelId="-1" group-title="❎PARAGUAY❎" logo="https://media.trece.com.py/sites/2/2025/09/logotrece_2025.webp", RPC TRECE PY
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/82.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="❎PARAGUAY❎" logo="https://nyc3.digitaloceanspaces.com/media-unicanal/2025/06/Unicanal-logo.webp", UNICANAL
