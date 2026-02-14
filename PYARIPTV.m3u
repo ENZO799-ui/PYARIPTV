@@ -505,7 +505,7 @@ https://jmp2.uk/stvp-US4700003DP
 #EXTINF:0 type="stream" channelId="-1" group-title="⏩MUSICALES|STINGRAY⏪" logo="https://images.pluto.tv/channels/5f85cf621d6d2200079f1de0/colorLogoPNG.png", Karaoke Por Stingray 
 https://lotus.stingray.com/manifest/karaoke-kar000-montreal/samsungtvplus/master.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="⏩MUSICALES|STINGRAY⏪" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/512px-Stingray_Music_logo.svg.png", Stingray Naturescape
+#EXTINF:0 type="stream" channelId="-1" group-title="⏩MUSICALES|STINGRAY⏪" logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/7791905f-9f8d-45ca-8ddd-a808cab7eb24.jpeg", Stingray Naturescape
 https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/master.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="⏩MUSICALES|STINGRAY⏪" logo="https://images.pluto.tv/channels/5f85ca40eda1b10007b967cd/colorLogoPNG.png", Conciertos Por Stingray
@@ -654,6 +654,9 @@ http://cdn1host.online:2999/xman2b/d5lxdEfHnB/265?mode=0&type=m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="⏩DEPORTES⏪" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/NBCSN_logo_%28flat%29.svg/512px-NBCSN_logo_%28flat%29.svg.png", NBC SPORTS
 https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="⏩DEPORTES⏪" logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/ff403089-1c81-41d3-bb18-b817b1f01721.jpeg", TOP BARCA
+https://amg17560-fcb-amg17560c2-rakuten-es-4889.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaspanish-rakutenes/playlist.m3u8?ads_amagi_channel_id=941&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_categories=IAB17&ads_content_genre=sports&ads_content_livestream=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_google_ad_manager_nonce=&ads_ifa_type=&ads_inv_partner_domain=rakuten.tv&ads_ip=192.145.38.205&ads_market=es&ads_network_name=RakutenTV&ads_os_language=&ads_placement=1&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_prodq=1&ads_rating=0&ads_rtv_content_id=6347&ads_rtv_content_language=es&ads_rtvid=271859&ads_streaming_id=3f3f0e53-3bfa-44e9-8021-50c689254876&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
 
 #EXTINF:0 type="stream" channelId="-1" group-title="⏩DEPORTES⏪" logo="https://i.postimg.cc/2yp7nzVN/realmadridtv.png", REAL MADRID TV
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
