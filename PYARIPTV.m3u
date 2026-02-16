@@ -377,7 +377,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:0 type="stream" channelId="-1" group-title="⏩MUSICALES⏪" logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Trace_UK_Logo.png?20240911230146", Trace UK HD
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-uk/encrypted.m3u8?ads.vf=7dIosAVyILi
 
-#EXTINF:0 type="stream" channelId="-1" group-title="⏩MUSICALES|MTV-PLUTO⏪" logo="https://upload.wikimedia.org/wikipedia/commons/3/30/MTV_Live_2021_logo.svg", MTV Live
+#EXTINF:0 type="stream" channelId="-1" group-title="⏩MUSICALES|MTV-PLUTO⏪" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MTV_Live_2021_logo.svg/250px-MTV_Live_2021_logo.svg.png", MTV Live
 https://fl2.moveonjoy.com/MTV_LIVE/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="⏩MUSICALES|MTV-PLUTO⏪" logo="https://i.imgur.com/x1zYoCW.png", MTV Hits
@@ -690,7 +690,7 @@ http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/25.m3u8
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/26.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="⏩DEPORTES⏪" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/512px-ESPN_Premium_logo.svg.png", ESPN PREMIUN
-http://179.43.101.99/Live/4ebed19e324f278338425a6190627141/local-02.playlist.m3u8
+http://179.43.101.99/Live/4ebed19e324f278338425a6190627141/local-04.playlist.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="⏩DEPORTES⏪" logo="https://w7.pngwing.com/pngs/1002/931/png-transparent-espn-espn3-logo-espn-events-tcm-logo-miscellaneous-television-text.png", ESPN MX
 http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTS6dv75Q4FarmdV0wIlwhBw/m3u8
@@ -1119,7 +1119,7 @@ http://179.43.101.99/Live/4ebed19e324f278338425a6190627141/local-01.playlist.m3u
 http://179.43.101.99/Live/4ebed19e324f278338425a6190627141/local-03.playlist.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="⏩DEPORTES⏪" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShXYV4tsiGr55sgm2a61eSApDf8od8y1KMeA&s", [EVENTOS] 3
-http://179.43.101.99/Live/4ebed19e324f278338425a6190627141/local-04.playlist.m3u8
+http://179.43.101.99/Live/4ebed19e324f278338425a6190627141/local-02.playlist.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="⏩DEPORTES⏪" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShXYV4tsiGr55sgm2a61eSApDf8od8y1KMeA&s", [EVENTOS] 4
 http://179.43.101.99/Live/4ebed19e324f278338425a6190627141/local-05.playlist.m3u8
