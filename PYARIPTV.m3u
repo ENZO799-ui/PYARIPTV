@@ -1,4 +1,19 @@
 #EXTM3U
+#EXTINF:0 type="stream" channelId="-1" group-title="⏩PVV DISNEY+ EVENTOS⏪" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Disney%2B_2024.svg/330px-Disney%2B_2024.svg.png", DISNEY+ 1
+http://179.43.101.99/Live/4ebed19e324f278338425a6190627141/local-94.playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="⏩PVV DISNEY+ EVENTOS⏪" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Disney%2B_2024.svg/330px-Disney%2B_2024.svg.png", DISNEY+ 2
+http://179.43.101.99/Live/4ebed19e324f278338425a6190627141/local-97.playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="⏩PVV DISNEY+ EVENTOS⏪" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Disney%2B_2024.svg/330px-Disney%2B_2024.svg.png", DISNEY+ 3
+http://179.43.101.99/Live/4ebed19e324f278338425a6190627141/local-96.playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="⏩PVV DISNEY+ EVENTOS⏪" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Disney%2B_2024.svg/330px-Disney%2B_2024.svg.png", DISNEY+ 4
+http://179.43.101.99/Live/4ebed19e324f278338425a6190627141/local-95.playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="⏩PVV DISNEY+ EVENTOS⏪" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Disney%2B_2024.svg/330px-Disney%2B_2024.svg.png", DISNEY+ 5
+http://179.43.101.99/Live/4ebed19e324f278338425a6190627141/local-104.playlist.m3u8
+
 #EXTINF:0 type="stream" channelId="-1" group-title="❎PARAGUAY❎" tvg-logo="https://grupovierci.brightspotcdn.com/dims4/default/26b9e86/2147483647/strip/true/crop/1777x1790+0+0/resize/800x806!/quality/90/?url=https%3A%2F%2Fk2-prod-grupo-vierci.s3.us-east-1.amazonaws.com%2Fbrightspot%2F0e%2Fb6%2F257502f9436b86d576eb823654f6%2Flogo-tf.png", Telefuturo SD
 https://copacogen.desdeparaguay.net/telefuturo/telefuturo_py_baja/index.m3u8?admin=tvaccion
 
@@ -19,6 +34,9 @@ http://186.0.248.95:20202/Live/0c0a3bd149db5bb78d1b86e590380ec6/telefe_default.m
 
 #EXTINF:0 type="stream" channelId="4032" group-title="❎ARGENTINA❎" tvg-logo="https://i.imgur.com/HNcCX3h.png", Telefe [Internacional]
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/81.m3u8
+
+#EXTINF:0 type="stream" channelId="4032" group-title="❎ARGENTINA❎" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/207/latina-fm-1011.8f6ab5a0.png", LATINA AR
+http://186.0.248.95:20202/Live/30c9dbf14099a1865c4c4627925816b1/latinatv.playlist.m3u8
 
 #EXTINF:0 type="stream" channelId="4032" group-title="❎ARGENTINA❎" tvg-logo="https://i.imgur.com/cJHP7bU.png", CANAL 9 
 http://179.43.101.99/Live/4ebed19e324f278338425a6190627141/local-16.playlist.m3u8
@@ -1123,21 +1141,6 @@ https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_1080.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="✅TDT EUROPE ES✅" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Star_TVE_2026.svg/960px-Star_TVE_2026.svg.png", STAR ES
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_dvr_1080.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="⏩PVV DISNEY+ EVENTOS⏪" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Disney%2B_2024.svg/330px-Disney%2B_2024.svg.png", DISNEY+ 1
-http://179.43.101.99/Live/4ebed19e324f278338425a6190627141/local-94.playlist.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="⏩PVV DISNEY+ EVENTOS⏪" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Disney%2B_2024.svg/330px-Disney%2B_2024.svg.png", DISNEY+ 2
-http://179.43.101.99/Live/4ebed19e324f278338425a6190627141/local-97.playlist.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="⏩PVV DISNEY+ EVENTOS⏪" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Disney%2B_2024.svg/330px-Disney%2B_2024.svg.png", DISNEY+ 3
-http://179.43.101.99/Live/4ebed19e324f278338425a6190627141/local-96.playlist.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="⏩PVV DISNEY+ EVENTOS⏪" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Disney%2B_2024.svg/330px-Disney%2B_2024.svg.png", DISNEY+ 4
-http://179.43.101.99/Live/4ebed19e324f278338425a6190627141/local-95.playlist.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="⏩PVV DISNEY+ EVENTOS⏪" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Disney%2B_2024.svg/330px-Disney%2B_2024.svg.png", DISNEY+ 5
-http://179.43.101.99/Live/4ebed19e324f278338425a6190627141/local-104.playlist.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="⏩DEPORTES⏪" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShXYV4tsiGr55sgm2a61eSApDf8od8y1KMeA&s", [EVENTOS]
 http://179.43.101.99/Live/4ebed19e324f278338425a6190627141/local-01.playlist.m3u8
