@@ -629,9 +629,6 @@ https://lotus.stingray.com/manifest/ose-190ads-montreal/samsungtvplus/master.m3u
 #EXTINF:0 type="stream" channelId="-1" group-title="⏩MUSICALES|STINGRAY⏪" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500010MT_20250630T232455SQUARE.png", Stingray Hip Hop
 https://jmp2.uk/stvp-USBD3500010MT
 
-#EXTINF0 type="stream" channelId="-1" group-title="⏩MUSICALES|STINGRAY⏪" tvg-logo="-1 tvg-id="US4700002UF" tvg-name="US4700002UF" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4700002UF_20250630T232504SQUARE.png", Stingray Euro Hits
-https://jmp2.uk/stvp-US4700002UF
-
 #EXTINF:0 type="stream" channelId="-1" group-title="⏩MUSICALES|STINGRAY⏪" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD35000149S_20250630T232441SQUARE.png", Stingray Nothin' But 90s
 https://lotus.stingray.com/manifest/ose-142ads-montreal/samsungtvplus/master.m3u8
 
