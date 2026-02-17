@@ -101,6 +101,9 @@ http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/120.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="❎ARGENTINA❎" tvg-logo="https://play-lh.googleusercontent.com/LQNtZORhc9X5ABjvLBei6QPX-G9vhh6Zt1ffi_FLnVWKAsUkhCLiNrw-VwvFsevISOk=w240-h480-rw", BRAVO TV
 http://179.43.101.99/Live/4ebed19e324f278338425a6190627141/local-80.playlist.m3u8
 
+#EXTINF:0 type="stream" channelId="-1" group-title="❎ARGENTINA❎" tvg-logo="https://i.ibb.co/rMBVDmZ/atvargentina-x1.png", ATV 
+https://tv.streaming.com.bo/atvargentina/index.m3u8
+
 #EXTINF:0 type="stream" channelId="-1" group-title="❎PARAGUAY❎" tvg-logo="https://i.ibb.co/rwkpQx6/unnamed-2.png", Cáritas TV 
 https://rds3.desdeparaguay.net/caritastv/caritastv/playlist.m3u8
 
@@ -282,6 +285,9 @@ http://186.0.248.95:20202/Live/0c0a3bd149db5bb78d1b86e590380ec6/tn_720.m3u8
 
 #EXTINF:0 type="stream" channelId="1972" group-title="✅NOTICIAS✅" tvg-logo="http://186.0.248.95:20202/images/CNNesp_285.png", CNN
 http://186.0.248.95:20202/Live/0c0a3bd149db5bb78d1b86e590380ec6/CNNesp_480.m3u8
+
+#EXTINF:0 type="stream" channelId="1972" group-title="✅NOTICIAS✅" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/France24.png/250px-France24.png", FRANCE 24
+https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
 
 #EXTINF:0 type="stream" channelId="1972" group-title="✅NOTICIAS✅" tvg-logo="https://i.imgur.com/8t9mdg9.png", EURONEWS
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews-spa/euronews-es.m3u8?ads.vf=DLlKFAN37a8
@@ -661,6 +667,9 @@ http://186.0.248.95:20202/Live/0c0a3bd149db5bb78d1b86e590380ec6/deportv_720.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="⏩DEPORTES⏪" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/2ecbfa8a3f25cc1212dbcd975383b55a.webp", AZTECA DEPORTES NETWORK
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6582f002a620e3000813b329livestitch/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366-4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=22941a63-f69a-11ea-bfbf-0242ac110002&userId=&serverSideAds=true
+
+#EXTINF:0 type="stream" channelId="-1" group-title="⏩DEPORTES⏪" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/2ecbfa8a3f25cc1212dbcd975383b55a.webp", AZTECA DEPORTES PREMIUM
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65cf60d166eec80008724e6f/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=610c8f98-68e8-48e7-9cc5-5dd3fefdcab5&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=fc2cc0eb-b76b-424e-8882-09ed7871f53d
 
 #EXTINF:0 type="stream" channelId="-1" group-title="⏩DEPORTES⏪" tvg-logo="https://images.pluto.tv/channels/5dcde07af1c85b0009b18651/colorLogoPNG.png", PLUTO DEPORTES
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde07af1c85b0009b18651/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366-4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=22941a63-f69a-11ea-bfbf-0242ac110002&userId=&serverSideAds=true
@@ -1077,7 +1086,7 @@ https://jmp2.uk/stvp-US2200005Y2
 https://ztnr.rtve.es/ztnr/1688877.m3u8
 
 #EXTINF:0 type="stream" channelId="1321" group-title="✅TDT EUROPE ES✅" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Logo_La_2.svg/960px-Logo_La_2.svg.png", 2 ES
-https://d4g9wh8d4wiaw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-crkkue0yedqb/La2ES.m3u8
+https://d4g9wh8d4wiaw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-crbrakk0yedqb/La2ES.m3u8
 
 #EXTINF:0 type="stream" channelId="2124" group-title="✅TDT EUROPE ES✅" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Antena_3_2025_%28sin_wordmark%29.svg/250px-Antena_3_2025_%28sin_wordmark%29.svg.png", 3 ES
 http://176.65.146.237:8401/play/a0ae/index.m3u8
