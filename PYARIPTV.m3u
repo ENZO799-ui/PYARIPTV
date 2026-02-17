@@ -292,6 +292,9 @@ https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 #EXTINF:0 type="stream" channelId="2691" group-title="⏩INTERNACIONAL⏪" tvg-logo="https://i.imgur.com/MOsWriY.png", LATINA PE
 https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
 
+#EXTINF:0 type="stream" channelId="2691" group-title="⏩INTERNACIONAL⏪" tvg-logo="https://i.imgur.com/IZxjnyp.png", ESTRELLA MX
+https://estrellatv-oando.amagi.tv/playlist.m3u8
+
 #EXTINF:0 type="stream" channelId="2691" group-title="⏩INTERNACIONAL⏪" tvg-logo="https://images.pluto.tv/channels/646ccdd0939a5900088a1980/colorLogoPNG.png", AZ CORAZÓN
 https://stitcher.pluto.tv/stitch/hls/channel/646ccdd0939a5900088a1980/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=1b8a1e28-ff83-11f0-9944-ced16f20231a
 
