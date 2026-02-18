@@ -755,15 +755,6 @@ http://179.43.101.99/Live/4ebed19e324f278338425a6190627141/local-02.playlist.m3u
 #EXTINF:0 type="stream" channelId="-1" group-title="⏩DEPORTES⏪" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c06589c968882b19431e883df28f54cf.webp" aspect-ratio="16:9", FOX DEPORTES
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63d0269d60bc8f000890facc/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1b6ecec3-ea2d-11f0-972f-69dd03187d36&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ee5c1cd2-4f0f-413d-b489-69c95ce6c168&userId=&serverSideAds=true
 
-#EXTINF:0 type="stream" channelId="-1" group-title="⏩DEPORTES⏪" tvg-logo="https://i.imgur.com/O9BapV9.png", FS1
-https://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="⏩DEPORTES⏪" tvg-logo="https://i.imgur.com/LHtxKI8.png", FS2
-http://cdn1host.online:2999/xman2b/d5lxdEfHnB/264?mode=0&type=m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="⏩DEPORTES⏪" tvg-logo="https://i.imgur.com/gR7u8DM.png", FOX SOCCER PLUS
-http://cdn1host.online:2999/xman2b/d5lxdEfHnB/265?mode=0&type=m3u8
-
 #EXTINF:0 type="stream" channelId="-1" group-title="⏩DEPORTES⏪" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/NBCSN_logo_%28flat%29.svg/512px-NBCSN_logo_%28flat%29.svg.png", NBC SPORTS
 https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master.m3u8
 
