@@ -137,7 +137,7 @@ https://video.hostingcaaguazu.com:19360/cosmostv/cosmostv.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="⏩MUSICALES⏪" tvg-logo="https://i.imgur.com/KOuxdMD.png", Dismar Radio TV 
 https://rds3.desdeparaguay.net/dismartv/dismartv/playlist.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="⏩DEPORTES⏪" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl2pMfGcpVpIrkA5AggfRnWQZHWZpdpoL7gQ&s", VS Sports [Solo Eventos]
+#EXTINF:0 type="stream" channelId="-1" group-title="⚽🔰EVENTOS APF TV🔰⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl2pMfGcpVpIrkA5AggfRnWQZHWZpdpoL7gQ&s", VS Sports [Solo Eventos]
 https://copacogen.desdeparaguay.net/gentv/gentv_py_baja/playlist.m3u8?admin=nacion
 
 #EXTINF:0 type="stream" channelId="-1" group-title="❎PARAGUAY❎" tvg-logo="https://i.imgur.com/vEMnZF4.png", GEN
