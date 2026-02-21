@@ -404,10 +404,13 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:0 type="stream" channelId="-1" group-title="⏩MUSICALES⏪" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Trace_UK_Logo.png?20240911230146", Trace UK HD
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-uk/encrypted.m3u8?ads.vf=7dIosAVyILi
 
+#EXTINF:0 type="stream" channelId="-1" group-title="⏩MUSICALES|MTV-PLUTO⏪" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/MTV_New_Official_Logo_2021.png", MTV JAPAN
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18
+
 #EXTINF:0 type="stream" channelId="-1" group-title="⏩MUSICALES|MTV-PLUTO⏪" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MTV_Live_2021_logo.svg/250px-MTV_Live_2021_logo.svg.png", MTV Live Latin
 https://ca1.buximedia.com/itv/latin/tracks-v1a1/mono.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="⏩MUSICALES|MTV-PLUTO⏪" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/MTV_Classic_2021.svg", MTV Classics
+#EXTINF:0 type="stream" channelId="-1" group-title="⏩MUSICALES|MTV-PLUTO⏪" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/MTV_Classic_2021.svg/250px-MTV_Classic_2021.svg.png", MTV Classics
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/66a01dcb8561260008b0a41d/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=8ee99fa9-8924-42ef-bf8b-617216b5b280&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=3d9a0e9e-e1f5-483e-b9f9-063e7e1ffdb9
 
 #EXTINF:0 type="stream" channelId="-1" group-title="⏩MUSICALES|MTV-PLUTO⏪" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/1/1b/MTV_Rocks_New.png/revision/latest/scale-to-width-down/314?cb=20240406161810", MTV Rocks US
